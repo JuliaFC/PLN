@@ -18,8 +18,8 @@ def main():
             output_filepath = input_filepath[:-4]
             output_filepath += "_output.txt"
 
-            mt = MovieTitles(input_filepath, output_filepath)
-            mt.fetch_movies()
+            ent = Entity(input_filepath, output_filepath)
+            ent.fetch_answers()
 
 if __name__ == "__main__":
     main()

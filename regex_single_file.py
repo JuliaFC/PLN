@@ -5,43 +5,63 @@ import re
 
 output_file = None
 
-class MovieTitles:
+class Entity:
+    
     def __init__(self, input_filepath, output_filepath):
-        self.movies = []
+        self.answers = []
+        self.ents = []
         self.input_filepath = input_filepath
         self.output_filepath = output_filepath
 
-    def trim_whitespace_and_newline(self, movie):
-        while movie[0] == " ":
-            movie = movie[1:]
-        while movie[-1] == "\n":
-            movie = movie[:-1]
-        return movie
+    def trim_whitespace_and_newline(self, answer):
+        if answer:
+            while answer[0] == " ":
+                answer = answer[1:]
+            while answer[-1] == "\n":
+                answer = answer[:-1]
+        return answer
 
     def scan_answer(self, line):
-        regex = "(?<=\t).([^,]+.*)"
-        movie_titles = re.search(regex, line)
-        if movie_titles:
-            movie_titles = movie_titles.group()
-            movie_titles = movie_titles.split(',')
-            for movie in movie_titles:
-                movie = self.trim_whitespace_and_newline(movie)
-                self.movies.append(movie)
+        regex = "(?<=\?).([^,]+.*)"
+        answers = re.search(regex, line)
+        trimmed_answers = []
+        if answers:
+            answers = answers.group()
+            answers = answers.split(',')
+            for answer in answers:
+                trimmed_answers.append(self.trim_whitespace_and_newline(answer))
+            self.answers.append(self.format_answers(trimmed_answers))
+    
+    def scan_ent(self, line):
+        regex = r"\b[A-Z].[\w']+\b(.*)\b[A-Z].[\w']+\b"
+        question = line.split('?')
+        question = question[0]
+        ent = re.search(regex, question)
+        if ent:
+            ent = ent.group()
+            self.ents.append(ent)
 
+    def format_answers(self, list):
+        formatted_answers = ''
+        for answer in list:
+            formatted_answers = formatted_answers + answer + ','
+        formatted_answers = formatted_answers[:-1]
+        return formatted_answers
 
-    def fetch_movies(self):
+    def fetch_answers(self):
         with open(self.input_filepath, 'r', encoding="utf8") as input_file:
             while input_file:
                 line = input_file.readline()
                 if not line:
                     break
+                self.scan_ent(line)
                 self.scan_answer(line)
         with open(self.output_filepath, 'w+', encoding="utf8") as  output_file:
-            for movie in self.movies:
-                output_file.write(f'{movie}\n')
+            for (ent, answers) in zip(self.ents, self.answers):
+                output_file.write(f'{ent}\t{answers}\n')
+
         input_file.close()
         output_file.close()
-        
 
 def main(): 
     if len(sys.argv) != 2:
@@ -51,8 +71,8 @@ def main():
     output_filepath = input_filepath[:-4]
     output_filepath += "_output.txt" # output_filepath is like 'filename_output.txt'
 
-    mt = MovieTitles(input_filepath, output_filepath)
-    mt.fetch_movies()
+    mt = Entity(input_filepath, output_filepath)
+    mt.fetch_answers()
 
 if __name__ == "__main__":
     main()
