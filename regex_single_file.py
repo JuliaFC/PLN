@@ -40,7 +40,7 @@ class MovieTitles:
             for movie in self.movies:
                 output_file.write(f'{movie}\n')
         input_file.close()
-        output_file.close
+        output_file.close()
         
 
 def main(): 
