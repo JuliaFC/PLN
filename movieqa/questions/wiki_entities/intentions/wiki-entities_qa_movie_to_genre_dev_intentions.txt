@@ -1,0 +1,1073 @@
+what is the genre of the film The Darjeeling Limited?		Drama	movie_to_genre
+what genre of movie is The Invention of Lying?		Comedy,Fantasy	movie_to_genre
+what was the genre of Rock Star?		Drama,Comedy,Music	movie_to_genre
+what genre of film is Love Wrecked?		Comedy	movie_to_genre
+what was the genre of the movie The Princess and the Frog?		Fantasy,Animation	movie_to_genre
+what film genre is The Desperados?		Western	movie_to_genre
+what is the genre for Tin Cup?		Comedy	movie_to_genre
+what type of film is Safe?		Thriller,Crime	movie_to_genre
+what is the genre of Parallel Sons?		Drama	movie_to_genre
+what genre of movie is Leadbelly?		Music	movie_to_genre
+what genre of film is What's Eating Gilbert Grape?		Drama	movie_to_genre
+what is the genre of the movie Shalako?		Western	movie_to_genre
+what was the genre of the film The Dunwich Horror?		Horror	movie_to_genre
+what was the genre of the movie Go Go Tales?		Comedy	movie_to_genre
+what sort of film is Banshee Chapter?		Horror	movie_to_genre
+what is the genre for the film The Motel Life?		Thriller,Mystery	movie_to_genre
+what film genre is Summer in February?		Drama	movie_to_genre
+what was the genre of the film De-Lovely?		Music	movie_to_genre
+what is the genre of the movie Haunt?		Horror	movie_to_genre
+what kind of film is The Littlest Rebel?		Drama,Family	movie_to_genre
+what is the genre for the film Just Wright?		Comedy	movie_to_genre
+what is the genre for the movie Wonderland?		Drama,Crime	movie_to_genre
+what genre is La Antena in?		Drama	movie_to_genre
+what genre of film is Elegy?		Drama	movie_to_genre
+what film genre is Mississippi Mermaid?		Drama	movie_to_genre
+what genre does Nine Lives fall under?		Horror	movie_to_genre
+what sort of movie is The Long Voyage Home?		Drama,War	movie_to_genre
+what kind of movie is No Name on the Bullet?		Western	movie_to_genre
+what genre does The War Is Over fall under?		Drama,War	movie_to_genre
+what genre of movie is Silent Night, Deadly Night Part 2?		Comedy,Horror	movie_to_genre
+what genre of movie is Girls Will Be Girls?		Comedy	movie_to_genre
+what was the genre of the film One Week?		Drama	movie_to_genre
+what is the genre for The Cool School?		Documentary	movie_to_genre
+what film genre is Beach Red?		War	movie_to_genre
+what genre is Days of Heaven in?		Drama	movie_to_genre
+what is the genre for the film The Iron Mask?		Adventure	movie_to_genre
+what sort of movie is The Man from Monterey?		Western	movie_to_genre
+what genre of movie is Don's Plum?		Drama	movie_to_genre
+what is the genre of the movie The Amityville Curse?		Horror	movie_to_genre
+what genre of movie is The Adversary?		Drama	movie_to_genre
+what is the genre for the movie Tracker?		Action	movie_to_genre
+what is the genre for Nina's Heavenly Delights?		Comedy	movie_to_genre
+what genre is Trespass in?		Action,Thriller	movie_to_genre
+what is the genre for the film The Man with the Golden Gun?		Action	movie_to_genre
+what sort of film is The Little Traitor?		Drama	movie_to_genre
+what is the genre of the movie Black Widow?		Thriller,Crime	movie_to_genre
+what is the genre of the film Nekromantik 2?		Horror	movie_to_genre
+what is the genre for the film Carne?		Drama	movie_to_genre
+what is the genre for Stranger on the Prowl?		Drama	movie_to_genre
+what sort of film is We Are Marshall?		Drama	movie_to_genre
+what was the genre of Take Me Home?		Comedy	movie_to_genre
+what was the genre of the movie Gator?		Action	movie_to_genre
+what genre does The Jane Austen Book Club fall under?		Drama	movie_to_genre
+what film genre is Zero Hour!?		Drama	movie_to_genre
+what genre does Stalingrad fall under?		Drama,War	movie_to_genre
+what is the genre for the film Anatomy?		Horror	movie_to_genre
+what genre does Streets of Blood fall under?		Drama,Action	movie_to_genre
+what kind of movie is Rocket Science?		Drama,Comedy	movie_to_genre
+what was the genre of Only Old Men Are Going to Battle?		Drama,War	movie_to_genre
+what was the genre of the film Only Two Can Play?		Comedy	movie_to_genre
+what type of movie is Mystery Road?		Crime,Mystery	movie_to_genre
+what is the genre of the film I See a Dark Stranger?		War	movie_to_genre
+what type of movie is Carnal Knowledge?		Drama	movie_to_genre
+what is the genre of Following Sean?		Documentary	movie_to_genre
+what genre of film is Super Fuzz?		Comedy	movie_to_genre
+what is the genre for the film Underdog?		Comedy,Action	movie_to_genre
+what is the genre for Rain?		Drama	movie_to_genre
+what genre of film is 3 Godfathers?		Western	movie_to_genre
+what genre of film is Young Guns?		Action	movie_to_genre
+what film genre is The Hills Have Eyes Part II?		Horror	movie_to_genre
+what genre of movie is Out of the Furnace?		Thriller	movie_to_genre
+what sort of film is He's Just Not That Into You?		Drama,Comedy	movie_to_genre
+what is the genre for the movie The Apple Dumpling Gang Rides Again?		Comedy,Family	movie_to_genre
+what was the genre of the movie Dead Awake?		Mystery	movie_to_genre
+what is the genre of The Law of Enclosures?		Drama	movie_to_genre
+what sort of movie is Dear White People?		Drama	movie_to_genre
+what film genre is Eureka?		Drama	movie_to_genre
+what is the genre for Fame?		Music,Musical	movie_to_genre
+what is the genre for the film Death Race 2?		Action	movie_to_genre
+what is the genre for the film Mahogany?		Drama	movie_to_genre
+what is the genre for the film If....?		Drama	movie_to_genre
+what genre of film is The Adventures of Sebastian Cole?		Drama,Comedy	movie_to_genre
+what genre of movie is Kansas City Confidential?		Crime	movie_to_genre
+what sort of film is Birds of America?		Drama,Comedy	movie_to_genre
+what is the genre of the film The Brasher Doubloon?		Crime	movie_to_genre
+what genre of film is Lake Placid?		Comedy,Horror	movie_to_genre
+what is the genre for the film Broken Vessels?		Drama	movie_to_genre
+what genre is Mothra in?		Fantasy	movie_to_genre
+what sort of film is Amélie?		Comedy	movie_to_genre
+what is the genre of Tomcats?		Comedy	movie_to_genre
+what genre is Beau Geste in?		Action,Adventure	movie_to_genre
+what genre does Cinderella fall under?		Fantasy	movie_to_genre
+what type of film is Bundle of Joy?		Comedy,Musical	movie_to_genre
+what is the genre for the movie There's Always Tomorrow?		Drama	movie_to_genre
+what was the genre of the movie Shadowboxer?		Crime	movie_to_genre
+what genre of movie is Executive Decision?		Action	movie_to_genre
+what sort of movie is Quadrophenia?		Music	movie_to_genre
+what sort of film is Jay and Silent Bob Strike Back?		Comedy	movie_to_genre
+what is the genre for the movie Chastity Bites?		Comedy,Horror	movie_to_genre
+what is the genre of the film Bang the Drum Slowly?		Drama	movie_to_genre
+what type of movie is Life Partners?		Comedy	movie_to_genre
+what is the genre of the film April Showers?		Drama	movie_to_genre
+what genre of film is In God's Hands?		Action	movie_to_genre
+what was the genre of Forever, Darling?		Comedy,Fantasy	movie_to_genre
+what genre of film is Parineeta?		Musical	movie_to_genre
+what film genre is Fat Albert?		Comedy	movie_to_genre
+what sort of film is Nosferatu the Vampyre?		Horror	movie_to_genre
+what is the genre of These Amazing Shadows?		Documentary	movie_to_genre
+what genre does Little Miss Marker fall under?		Drama,Comedy	movie_to_genre
+what is the genre of the movie Whisky?		Comedy	movie_to_genre
+what is the genre of the film Annabelle?		Horror	movie_to_genre
+what sort of film is The Stoning of Soraya M.?		Drama	movie_to_genre
+what is the genre for the film Secret?		Music	movie_to_genre
+what is the genre of the film Eye of God?		Crime	movie_to_genre
+what genre of movie is A Time to Kill?		Drama	movie_to_genre
+what is the genre for the movie The Grass Is Greener?		Comedy	movie_to_genre
+what film genre is Little Fockers?		Comedy	movie_to_genre
+what kind of film is Bananas?		Comedy	movie_to_genre
+what genre of film is Office Killer?		Comedy,Horror	movie_to_genre
+what is the genre for the film Ulzana's Raid?		Western	movie_to_genre
+what is the genre for the movie The Wind and the Lion?		Adventure	movie_to_genre
+what was the genre of the film The Crazies?		Action,Horror	movie_to_genre
+what kind of movie is Byzantium?		Fantasy	movie_to_genre
+what genre does Blue State fall under?		Comedy	movie_to_genre
+what genre of film is The Little Mermaid?		Fantasy,Animation	movie_to_genre
+what is the genre of Deadly Advice?		Drama,Comedy	movie_to_genre
+what is the genre of the film Fail Safe?		Drama	movie_to_genre
+what film genre is The Corn Is Green?		Drama	movie_to_genre
+what is the genre for the movie Before Sunset?		Drama	movie_to_genre
+what was the genre of the movie Innerspace?		Comedy	movie_to_genre
+what is the genre of A Map of the World?		Drama	movie_to_genre
+what genre does My Prairie Home fall under?		Music,Documentary	movie_to_genre
+what kind of film is Pearl Harbor?		Drama,Action,Romance	movie_to_genre
+what was the genre of No Small Affair?		Drama,Comedy	movie_to_genre
+what type of movie is The Guys?		Drama	movie_to_genre
+what genre of film is Stash House?		Thriller	movie_to_genre
+what sort of film is Never Weaken?		Comedy,Short	movie_to_genre
+what was the genre of the film Wishful Thinking?		Comedy	movie_to_genre
+what is the genre for the film Time Limit?		Drama	movie_to_genre
+what is the genre of Enough?		Drama,Thriller	movie_to_genre
+what film genre is The Dove?		Drama	movie_to_genre
+what was the genre of the movie An American Rhapsody?		Drama	movie_to_genre
+what is the genre for the film Selma?		Drama	movie_to_genre
+what genre of movie is Cocktail?		Drama	movie_to_genre
+what genre is Sahara in?		Comedy,Action,Adventure	movie_to_genre
+what genre of movie is Loaded?		Drama,Crime	movie_to_genre
+what is the genre for The White Diamond?		Documentary	movie_to_genre
+what was the genre of the film Vice?		Action,Adventure	movie_to_genre
+what sort of film is Battle of the Bulge?		Drama,War	movie_to_genre
+what is the genre of the movie The Doorway to Hell?		Crime	movie_to_genre
+what is the genre of the film Primary Colors?		Drama	movie_to_genre
+what was the genre of the movie Breakfast on Pluto?		Drama,Comedy	movie_to_genre
+what is the genre for Here Comes the Groom?		Comedy,Musical	movie_to_genre
+what is the genre of Honeysuckle Rose?		Drama	movie_to_genre
+what is the genre for the film May?		Horror	movie_to_genre
+what genre of film is Mayor of the Sunset Strip?		Documentary	movie_to_genre
+what genre does Stella Street fall under?		Comedy	movie_to_genre
+what genre of movie is Labor Day?		Drama	movie_to_genre
+what is the genre of the movie Dead in the Water?		Thriller,Crime	movie_to_genre
+what is the genre for A Woman of Affairs?		Drama	movie_to_genre
+what is the genre for Deadline?		Thriller	movie_to_genre
+what was the genre of the film Microcosmos?		Documentary	movie_to_genre
+what film genre is Cameron's Closet?		Horror	movie_to_genre
+what is the genre of the movie Ransom?		Thriller,Crime	movie_to_genre
+what genre of film is Ski Patrol?		War	movie_to_genre
+what was the genre of The Devil's Tomb?		Horror	movie_to_genre
+what kind of movie is Shaft?		Action,Crime	movie_to_genre
+what genre of movie is Life of a King?		Drama	movie_to_genre
+what was the genre of the movie Going Down in LA-LA Land?		Drama,Comedy	movie_to_genre
+what sort of film is Is the Man Who Is Tall Happy??	?	Documentary	movie_to_genre
+what was the genre of The Guard?		Comedy	movie_to_genre
+what was the genre of the film The Thief of Bagdad?		Fantasy	movie_to_genre
+what genre is The Devil's Rock in?		Horror	movie_to_genre
+what kind of movie is Slaves of New York?		Drama	movie_to_genre
+what was the genre of Blood and Wine?		Thriller	movie_to_genre
+what kind of movie is Zombeavers?		Comedy,Horror	movie_to_genre
+what is the genre of the film A Cry in the Night?		Drama	movie_to_genre
+what genre is Dracula Has Risen from the Grave in?		Horror	movie_to_genre
+what genre does The Kid with a Bike fall under?		Drama	movie_to_genre
+what is the genre of the film Born to Be Bad?		Drama	movie_to_genre
+what kind of film is Scream 3?		Mystery,Horror	movie_to_genre
+what was the genre of the movie Angels in the Outfield?		Comedy	movie_to_genre
+what was the genre of the film To Paint or Make Love?		Drama	movie_to_genre
+what film genre is The World of Apu?		Drama	movie_to_genre
+what is the genre for the movie Super Sucker?		Comedy	movie_to_genre
+what genre is The Killing of America in?		Documentary	movie_to_genre
+what was the genre of Reckless?		Comedy	movie_to_genre
+what was the genre of the film Don't Look Now?		Thriller,Horror	movie_to_genre
+what film genre is A Man Called Adam?		Drama,Music	movie_to_genre
+what genre of movie is The Congress?		Animation	movie_to_genre
+what genre is East Is East in?		Drama,Comedy	movie_to_genre
+what type of movie is The Omen?		Horror	movie_to_genre
+what type of film is All of Me?		Comedy,Fantasy	movie_to_genre
+what kind of movie is To End All Wars?		War	movie_to_genre
+what is the genre of The Pill?		Comedy	movie_to_genre
+what is the genre of the film At the Circus?		Comedy	movie_to_genre
+what was the genre of the film The Hot Rock?		Comedy	movie_to_genre
+what is the genre for the film Double Wedding?		Comedy	movie_to_genre
+what type of movie is J. Edgar?		Drama	movie_to_genre
+what kind of film is The Three Musketeers?		Comedy	movie_to_genre
+what genre is Another Earth in?		Drama	movie_to_genre
+what type of film is Waydowntown?		Comedy	movie_to_genre
+what type of film is The Oak?		Drama	movie_to_genre
+what type of movie is Starting Over?		Comedy	movie_to_genre
+what type of movie is I Killed My Mother?		Drama	movie_to_genre
+what was the genre of the film Toolbox Murders?		Horror	movie_to_genre
+what is the genre for the movie A Simple Twist of Fate?		Drama,Comedy	movie_to_genre
+what film genre is Trojan War?		Comedy	movie_to_genre
+what is the genre of The Bank Job?		Crime	movie_to_genre
+what genre of movie is The Fall?		Adventure,Fantasy	movie_to_genre
+what is the genre for the movie Chariots of Fire?		Drama	movie_to_genre
+what film genre is The Raven?		Thriller,Horror	movie_to_genre
+what film genre is Dreamboat?		Comedy	movie_to_genre
+what genre does Kindergarten Cop fall under?		Comedy	movie_to_genre
+what type of movie is Far and Away?		Drama,Adventure,Romance	movie_to_genre
+what was the genre of Eight Below?		Drama,Adventure	movie_to_genre
+what genre of film is Evil Aliens?		Comedy,Horror	movie_to_genre
+what is the genre for the movie Moon Child?		Action	movie_to_genre
+what genre of film is Mamma Mia!?		Comedy,Musical	movie_to_genre
+what is the genre of Crazy Sexy Cancer?		Documentary	movie_to_genre
+what genre does When a Man Loves a Woman fall under?		Drama	movie_to_genre
+what genre is A Guy Thing in?		Comedy	movie_to_genre
+what is the genre of the movie Girlfight?		Drama,Sport	movie_to_genre
+what is the genre of A Tale of Winter?		Drama	movie_to_genre
+what is the genre of the film The Amazing Dr. Clitterhouse?		Crime	movie_to_genre
+what genre of film is Death of a Salesman?		Drama	movie_to_genre
+what was the genre of Route Irish?		Drama,Thriller	movie_to_genre
+what sort of film is Scooby-Doo?		Comedy,Mystery	movie_to_genre
+what is the genre for the film Auntie Mame?		Comedy	movie_to_genre
+what is the genre for the movie Silent House?		Horror	movie_to_genre
+what is the genre for the movie The Devil Inside?		Horror	movie_to_genre
+what genre is Darfur Now in?		Documentary	movie_to_genre
+what was the genre of the movie Paradise Road?		War	movie_to_genre
+what is the genre of the film Pathfinder?		Action,Adventure	movie_to_genre
+what is the genre of the movie Perdona bonita, pero Lucas me quería a mí?		Comedy	movie_to_genre
+what genre of film is King of Beggars?		Comedy	movie_to_genre
+what film genre is Erik the Viking?		Comedy,Fantasy	movie_to_genre
+what genre does Agnes of God fall under?		Drama	movie_to_genre
+what was the genre of the movie It Happened Here?		War	movie_to_genre
+what is the genre for the film The Negotiator?		Action	movie_to_genre
+what genre does Rubin and Ed fall under?		Comedy	movie_to_genre
+what genre does The Girl Can't Help It fall under?		Comedy,Music	movie_to_genre
+what is the genre of the movie Waxwork?		Comedy,Horror	movie_to_genre
+what kind of movie is Hedd Wyn?		Drama,War	movie_to_genre
+what genre does Monsignor fall under?		Drama,War	movie_to_genre
+what genre of film is The Big Bus?		Comedy	movie_to_genre
+what is the genre of the movie Wrong Cops?		Comedy	movie_to_genre
+what is the genre for the film Penny Serenade?		Drama	movie_to_genre
+what type of movie is Support Your Local Sheriff!?		Western	movie_to_genre
+what film genre is Widows?		Drama	movie_to_genre
+what kind of movie is Sailor of the King?		War	movie_to_genre
+what sort of movie is CB4?		Comedy,Music	movie_to_genre
+what is the genre for the movie Ernest Saves Christmas?		Comedy	movie_to_genre
+what genre is Guest House Paradiso in?		Comedy	movie_to_genre
+what was the genre of Mickey One?		Drama	movie_to_genre
+what was the genre of the movie Rear Window?		Thriller	movie_to_genre
+what sort of film is The Woods?		Horror	movie_to_genre
+what type of movie is Not Fade Away?		Drama	movie_to_genre
+what is the genre of the film Vacancy?		Horror	movie_to_genre
+what was the genre of Neighbors?		Comedy	movie_to_genre
+what was the genre of Just Cause?		Crime	movie_to_genre
+what genre is Lambada in?		Drama	movie_to_genre
+what kind of film is Chill?		Horror	movie_to_genre
+what film genre is Flyboys?		Drama	movie_to_genre
+what is the genre of Bending the Rules?		Comedy	movie_to_genre
+what sort of film is Honeydripper?		Drama	movie_to_genre
+what is the genre of the movie The Majestic?		Drama	movie_to_genre
+what is the genre of the movie The White Reindeer?		Drama,Horror	movie_to_genre
+what type of film is Knights of the Round Table?		Adventure	movie_to_genre
+what was the genre of the movie 12 Angry Men?		Drama	movie_to_genre
+what kind of film is Guilty as Sin?		Drama,Thriller	movie_to_genre
+what is the genre of My Name Is Khan?		Drama	movie_to_genre
+what film genre is Les Misérables?		Drama,Musical	movie_to_genre
+what kind of movie is Cannonball Run II?		Comedy	movie_to_genre
+what type of film is Return to Oz?		Adventure,Fantasy	movie_to_genre
+what sort of film is Men Without Women?		Drama	movie_to_genre
+what is the genre of the film Casanova Brown?		Comedy	movie_to_genre
+what genre of movie is Push?		Thriller	movie_to_genre
+what is the genre of the film Pinky?		Drama	movie_to_genre
+what genre does Star Trek fall under?		Action,Adventure	movie_to_genre
+what genre does Man of the Moment fall under?		Comedy	movie_to_genre
+what is the genre of The Independent?		Comedy	movie_to_genre
+what genre does Cedar Rapids fall under?		Comedy	movie_to_genre
+what is the genre for Ivory Tower?		Documentary	movie_to_genre
+what genre of movie is Shopping?		Drama,Action,Crime	movie_to_genre
+what type of film is Canyon Passage?		Western	movie_to_genre
+what is the genre for the film The Green Man?		Comedy	movie_to_genre
+what is the genre of the movie Werewolf Woman?		Horror	movie_to_genre
+what genre of film is Confessions of a Window Cleaner?		Comedy	movie_to_genre
+what sort of movie is Who's That Girl?		Comedy	movie_to_genre
+what is the genre of The Lawnmower Man?		Horror	movie_to_genre
+what sort of movie is Last Holiday?		Comedy	movie_to_genre
+what was the genre of Rubber?		Comedy	movie_to_genre
+what sort of movie is This Is the Night?		Comedy	movie_to_genre
+what genre is The Beach in?		Drama,Adventure	movie_to_genre
+what genre of film is Saving Silverman?		Comedy	movie_to_genre
+what sort of film is Over Your Dead Body?		Horror	movie_to_genre
+what is the genre for the film Wake Island?		War	movie_to_genre
+what genre of movie is Walking, Walking?		Drama	movie_to_genre
+what kind of movie is Fifty Shades of Grey?		Drama	movie_to_genre
+what kind of movie is Summer Stock?		Musical	movie_to_genre
+what is the genre of House?		Comedy,Horror	movie_to_genre
+what sort of movie is The Frightened City?		Crime	movie_to_genre
+what genre does The Unknown Known fall under?		Documentary	movie_to_genre
+what is the genre for the movie Face of a Fugitive?		Western	movie_to_genre
+what kind of movie is Wild Geese II?		Action,Thriller	movie_to_genre
+what type of movie is Buona Sera, Mrs. Campbell?		Comedy	movie_to_genre
+what was the genre of the film White Squall?		Drama	movie_to_genre
+what kind of movie is Babysitting?		Comedy	movie_to_genre
+what type of film is The Evil Dead?		Horror	movie_to_genre
+what sort of film is Body of Evidence?		Thriller	movie_to_genre
+what is the genre of Solomon Kane?		Adventure,Fantasy	movie_to_genre
+what is the genre of the movie The Past?		Drama	movie_to_genre
+what genre of film is The Last House on the Left?		Horror	movie_to_genre
+what was the genre of the film Sans Soleil?		Documentary	movie_to_genre
+what was the genre of the film Project A?		Comedy,Action	movie_to_genre
+what was the genre of the film Edward Scissorhands?		Drama,Fantasy	movie_to_genre
+what is the genre of the film The Last Run?		Action	movie_to_genre
+what genre of film is Mrs. Winterbourne?		Drama,Comedy	movie_to_genre
+what is the genre of Destry Rides Again?		Western	movie_to_genre
+what genre of film is Rabbit Hole?		Drama	movie_to_genre
+what kind of movie is Ivanhoe?		Adventure	movie_to_genre
+what is the genre for Stir Crazy?		Comedy	movie_to_genre
+what is the genre of the film The Bride with White Hair?		Adventure	movie_to_genre
+what is the genre of Tap?		Drama	movie_to_genre
+what is the genre of the movie Araya?		Documentary	movie_to_genre
+what sort of film is The Red Squirrel?		Drama	movie_to_genre
+what type of movie is The Count of Monte Cristo?		Drama,Romance	movie_to_genre
+what film genre is Vampire Academy?		Fantasy	movie_to_genre
+what genre is Soldier Blue in?		Western	movie_to_genre
+what genre of film is The Way of the Gun?		Crime	movie_to_genre
+what was the genre of Ferris Bueller's Day Off?		Comedy	movie_to_genre
+what genre of film is Light of Day?		Drama,Music	movie_to_genre
+what is the genre of the film Two Moon Junction?		Romance	movie_to_genre
+what film genre is Hierro?		Thriller	movie_to_genre
+what type of film is Prom Night?		Horror	movie_to_genre
+what type of movie is Point of No Return?		Action	movie_to_genre
+what is the genre of Mujhse Shaadi Karogi?		Comedy	movie_to_genre
+what was the genre of the film The Mooring?		Thriller	movie_to_genre
+what genre of movie is Armored Car Robbery?		Crime	movie_to_genre
+what genre of film is Children of a Lesser God?		Drama	movie_to_genre
+what is the genre of the movie The Eighth Day?		Drama,Comedy	movie_to_genre
+what genre of movie is Fierce People?		Drama,Thriller	movie_to_genre
+what type of film is It's Alive?		Horror	movie_to_genre
+what kind of film is Mo' Money?		Comedy	movie_to_genre
+what genre is Top Banana in?		Musical	movie_to_genre
+what is the genre for the film True Heart?		Adventure,Family	movie_to_genre
+what genre is Saints and Soldiers in?		Drama	movie_to_genre
+what sort of film is Consuming Spirits?		Drama,Animation	movie_to_genre
+what is the genre of the movie Barefoot?		Drama,Comedy	movie_to_genre
+what film genre is The Lacemaker?		Drama	movie_to_genre
+what was the genre of the movie The Cabinet of Dr. Caligari?		Horror	movie_to_genre
+what kind of movie is Jurassic Park III?		Action,Adventure	movie_to_genre
+what film genre is The Calcium Kid?		Comedy	movie_to_genre
+what kind of film is 48 Shades?		Comedy	movie_to_genre
+what was the genre of the film Eye of the Devil?		Crime,Horror	movie_to_genre
+what genre of film is Born to Fight?		Action	movie_to_genre
+what genre of film is Russian Roulette?		Thriller	movie_to_genre
+what genre does The Second Chance fall under?		Drama	movie_to_genre
+what is the genre for the film Spaced Invaders?		Comedy	movie_to_genre
+what is the genre for the film Scenes of a Sexual Nature?		Drama,Comedy	movie_to_genre
+what is the genre of the movie Nativity!?		Comedy	movie_to_genre
+what is the genre of The Land That Time Forgot?		Adventure,Fantasy	movie_to_genre
+what kind of movie is Mona Lisa Smile?		Drama	movie_to_genre
+what sort of movie is Swordfish?		Action,Thriller,Crime	movie_to_genre
+what film genre is Starter for 10?		Drama,Comedy	movie_to_genre
+what genre does The Counselor fall under?		Thriller	movie_to_genre
+what is the genre for the film Animal Factory?		Drama,Crime	movie_to_genre
+what type of movie is Superman?		Action	movie_to_genre
+what genre of movie is Looking for Comedy in the Muslim World?		Comedy	movie_to_genre
+what is the genre for the movie Memoirs of an Invisible Man?		Comedy	movie_to_genre
+what is the genre of The Great McGinty?		Comedy	movie_to_genre
+what is the genre of The War Zone?		Drama	movie_to_genre
+what type of movie is Choking Man?		Drama	movie_to_genre
+what is the genre of the movie Written on the Wind?		Drama	movie_to_genre
+what genre of film is Absolon?		Thriller	movie_to_genre
+what genre is The Breakfast Club in?		Drama,Comedy	movie_to_genre
+what kind of movie is Paris Trout?		Drama	movie_to_genre
+what sort of film is Frogs?		Horror	movie_to_genre
+what kind of movie is Naked?		Drama	movie_to_genre
+what genre of film is Killer Pad?		Comedy,Horror	movie_to_genre
+what genre does I Can Get It for You Wholesale fall under?		Drama	movie_to_genre
+what sort of film is Octane?		Thriller	movie_to_genre
+what is the genre of the movie Mansfield Park?		Drama,Comedy	movie_to_genre
+what is the genre of the film Stranger Than Paradise?		Comedy	movie_to_genre
+what is the genre of Breaking Point?		Drama,Action	movie_to_genre
+what is the genre of Fat Head?		Documentary	movie_to_genre
+what genre is Dragon Eyes in?		Action	movie_to_genre
+what type of movie is The Daytrippers?		Drama	movie_to_genre
+what is the genre of the film Eaten Alive?		Horror	movie_to_genre
+what is the genre of the film Mute Witness?		Thriller,Horror	movie_to_genre
+what was the genre of the movie Stone Cold?		Action	movie_to_genre
+what genre of film is I'm Here?		Romance,Short	movie_to_genre
+what kind of film is Nuts?		Drama	movie_to_genre
+what is the genre of the film Saw?		Horror	movie_to_genre
+what was the genre of Dive!?		Documentary	movie_to_genre
+what genre does Creepshow fall under?		Horror	movie_to_genre
+what is the genre of Colombiana?		Action	movie_to_genre
+what was the genre of the movie Man in the Wilderness?		Western	movie_to_genre
+what kind of movie is Son of a Gun?		Crime	movie_to_genre
+what is the genre of the movie Land of Plenty?		Drama	movie_to_genre
+what sort of movie is Shoot to Kill?		Adventure	movie_to_genre
+what type of film is Beast from Haunted Cave?		Horror	movie_to_genre
+what was the genre of The Chase?		Drama	movie_to_genre
+what is the genre for the movie The Express?		Sport	movie_to_genre
+what sort of film is The Bone Snatcher?		Horror	movie_to_genre
+what genre of film is Gambit?		Comedy	movie_to_genre
+what kind of movie is The Exorcist III?		Horror	movie_to_genre
+what genre of film is Wildflowers?		Drama	movie_to_genre
+what film genre is The Bubble?		Drama	movie_to_genre
+what was the genre of The Nameless?		Horror	movie_to_genre
+what kind of film is To the Wonder?		Drama	movie_to_genre
+what was the genre of The Triplets of Belleville?		Comedy,Animation	movie_to_genre
+what film genre is The Snow Walker?		Adventure	movie_to_genre
+what genre does The Baby-Sitters Club fall under?		Comedy,Family	movie_to_genre
+what was the genre of the movie The Black Power Mixtape 1967-1975?		Documentary	movie_to_genre
+what sort of film is Girl with a Pearl Earring?		Drama	movie_to_genre
+what is the genre for Fast Times at Ridgemont High?		Comedy	movie_to_genre
+what is the genre for Kiss of the Spider Woman?		Drama	movie_to_genre
+what type of movie is Rosemary's Baby?		Horror	movie_to_genre
+what was the genre of the movie The Silence?		Thriller,Crime	movie_to_genre
+what was the genre of the film Cold Prey?		Horror	movie_to_genre
+what was the genre of the film Sunset Park?		Drama	movie_to_genre
+what kind of film is Chances Are?		Comedy	movie_to_genre
+what type of film is Symmetry?		Drama	movie_to_genre
+what is the genre of the film What's the Worst That Could Happen??	?	Comedy	movie_to_genre
+what is the genre for the film Pawn Shop Chronicles?		Comedy,Crime	movie_to_genre
+what type of movie is The Bourne Ultimatum?		Action,Thriller	movie_to_genre
+what genre is Teen Wolf Too in?		Comedy	movie_to_genre
+what kind of film is Skinwalkers?		Action,Horror	movie_to_genre
+what was the genre of the film Decampitated?		Comedy,Horror	movie_to_genre
+what type of film is The Man Who Came to Dinner?		Comedy	movie_to_genre
+what type of movie is Operation Mad Ball?		Comedy,War	movie_to_genre
+what is the genre for the film The Grand Seduction?		Comedy	movie_to_genre
+what is the genre of the movie The Reluctant Fundamentalist?		Thriller	movie_to_genre
+what genre of film is The Racket?		Drama,Crime	movie_to_genre
+what genre of movie is Cinderella?		Fantasy	movie_to_genre
+what was the genre of Stop Train 349?		Drama	movie_to_genre
+what genre of movie is The Lizzie McGuire Movie?		Comedy	movie_to_genre
+what type of movie is Criminal Law?		Thriller	movie_to_genre
+what was the genre of The Terror Within?		Horror	movie_to_genre
+what genre of movie is Kagemusha?		War,History	movie_to_genre
+what genre of film is PTU?		Thriller,Crime	movie_to_genre
+what genre does My Sassy Girl fall under?		Drama,Comedy	movie_to_genre
+what genre is Rob the Mob in?		Drama,Crime	movie_to_genre
+what genre does The American Astronaut fall under?		Musical	movie_to_genre
+what is the genre for the film Scaramouche?		Adventure	movie_to_genre
+what is the genre for the film Foreign Letters?		Drama	movie_to_genre
+what kind of movie is Play the Game?		Comedy	movie_to_genre
+what is the genre for A River Runs Through It?		Drama	movie_to_genre
+what film genre is The Aviator?		Adventure	movie_to_genre
+what sort of movie is Man of the World?		Drama	movie_to_genre
+what sort of film is Very Annie Mary?		Comedy,Musical	movie_to_genre
+what is the genre for the film Bastards?		Drama	movie_to_genre
+what is the genre of Continental Divide?		Comedy	movie_to_genre
+what sort of film is Wild Oranges?		Drama	movie_to_genre
+what type of film is Incubus?		Horror	movie_to_genre
+what is the genre of 10 MPH?		Documentary	movie_to_genre
+what film genre is The Substance of Fire?		Drama	movie_to_genre
+what is the genre for the movie My Favorite Year?		Comedy	movie_to_genre
+what is the genre for the movie Double or Nothing?		Comedy,Musical	movie_to_genre
+what genre is Radio in?		Sport	movie_to_genre
+what genre is Planes in?		Comedy,Animation	movie_to_genre
+what is the genre for Infinity?		Drama	movie_to_genre
+what genre of film is Hanky Panky?		Comedy	movie_to_genre
+what type of film is White Elephant?		Drama	movie_to_genre
+what kind of movie is Remarkable Power?		Comedy	movie_to_genre
+what is the genre of the movie Penthouse North?		Thriller	movie_to_genre
+what is the genre for the film The Devil's Rain?		Horror	movie_to_genre
+what was the genre of Margot at the Wedding?		Comedy	movie_to_genre
+what is the genre of the movie Surviving Desire?		Drama,Comedy	movie_to_genre
+what genre of movie is 2-Headed Shark Attack?		Horror	movie_to_genre
+what genre is The Replacement Killers in?		Action,Crime	movie_to_genre
+what type of movie is Professor Beware?		Comedy	movie_to_genre
+what was the genre of Action Jackson?		Action	movie_to_genre
+what sort of movie is The Wog Boy?		Comedy	movie_to_genre
+what genre does The Canyons fall under?		Drama,Thriller	movie_to_genre
+what is the genre of the movie Penthouse?		Crime	movie_to_genre
+what kind of movie is Wrath of the Titans?		Adventure,Fantasy	movie_to_genre
+what is the genre of the film Hardcore?		Drama	movie_to_genre
+what is the genre of Girls Against Boys?		Thriller	movie_to_genre
+what sort of movie is Interview with a Hitman?		Action	movie_to_genre
+what is the genre of As I Was Moving Ahead Occasionally I Saw Brief Glimpses of Beauty?		Documentary	movie_to_genre
+what genre of movie is Brüno?		Comedy	movie_to_genre
+what sort of film is Meet the Browns?		Drama,Comedy	movie_to_genre
+what genre is Amanece, que no es poco in?		Comedy	movie_to_genre
+what sort of movie is Escape from Tomorrow?		Fantasy,Horror	movie_to_genre
+what sort of movie is Bed of Roses?		Romance	movie_to_genre
+what is the genre of the film The World of Suzie Wong?		Drama	movie_to_genre
+what sort of film is Bad Boy Bubby?		Comedy	movie_to_genre
+what is the genre for the film Blood Beach?		Horror	movie_to_genre
+what genre of film is I Want You?		Crime	movie_to_genre
+what was the genre of the film Whisper?		Horror	movie_to_genre
+what is the genre of the film The Missionary?		Comedy	movie_to_genre
+what is the genre for Man on Wire?		Documentary	movie_to_genre
+what kind of film is Weird Woman?		Mystery	movie_to_genre
+what was the genre of Good Morning, Vietnam?		Comedy,War	movie_to_genre
+what is the genre of the film Halloween II?		Horror	movie_to_genre
+what sort of movie is A Shock to the System?		Thriller,Crime	movie_to_genre
+what was the genre of The Ambassador?		Documentary	movie_to_genre
+what kind of film is Carrie?		Horror	movie_to_genre
+what type of film is 40 Guns to Apache Pass?		Western	movie_to_genre
+what is the genre for Scoop?		Comedy,Mystery	movie_to_genre
+what is the genre of The Invisible Man?		Horror	movie_to_genre
+what genre of movie is Ring of Darkness?		Horror	movie_to_genre
+what is the genre of the movie Mr. Sardonicus?		Horror	movie_to_genre
+what film genre is Aces 'N' Eights?		Action,Adventure	movie_to_genre
+what is the genre for the movie The Deceivers?		Adventure	movie_to_genre
+what is the genre of the film Intimate Lighting?		Drama	movie_to_genre
+what is the genre of the movie 99 Homes?		Drama	movie_to_genre
+what was the genre of Wedding Crashers?		Comedy	movie_to_genre
+what genre of film is The Cold Light of Day?		Action	movie_to_genre
+what genre does Bend It Like Beckham fall under?		Drama,Comedy	movie_to_genre
+what was the genre of the film The Lords of Salem?		Horror	movie_to_genre
+what kind of movie is Battle Circus?		War	movie_to_genre
+what genre of movie is Men of Respect?		Drama,Crime	movie_to_genre
+what sort of movie is 360?		Drama	movie_to_genre
+what type of movie is I'll Be Home for Christmas?		Comedy,Family	movie_to_genre
+what sort of film is Destination Tokyo?		War	movie_to_genre
+what is the genre for the film Death Race 2000?		Action	movie_to_genre
+what type of film is Spiral?		Thriller	movie_to_genre
+what is the genre of the film The Water Horse?		Fantasy,Family	movie_to_genre
+what kind of film is The Last Mountain?		Documentary	movie_to_genre
+what is the genre of The Case Against 8?		Documentary	movie_to_genre
+what sort of movie is The Box?		Crime	movie_to_genre
+what type of film is Secret Admirer?		Comedy	movie_to_genre
+what is the genre for The Incredible Shrinking Man?		Drama	movie_to_genre
+what was the genre of La Bête Humaine?		Drama	movie_to_genre
+what was the genre of North Dallas Forty?		Drama	movie_to_genre
+what genre is Driving Miss Daisy in?		Drama,Comedy	movie_to_genre
+what was the genre of the movie Mafioso?		Comedy	movie_to_genre
+what genre of film is The Chipmunk Adventure?		Adventure	movie_to_genre
+what is the genre of I giorni contati?		Drama	movie_to_genre
+what is the genre for Hush?		Thriller,Horror	movie_to_genre
+what is the genre for the movie The Innocent Sleep?		Thriller	movie_to_genre
+what sort of film is Canadian Bacon?		Comedy	movie_to_genre
+what was the genre of the film Kimjongilia?		Documentary	movie_to_genre
+what genre is College Road Trip in?		Comedy	movie_to_genre
+what sort of movie is The Angels' Share?		Drama,Comedy	movie_to_genre
+what is the genre for Night Terrors?		Horror	movie_to_genre
+what sort of film is Green Card?		Comedy	movie_to_genre
+what was the genre of the movie Shock Waves?		Horror	movie_to_genre
+what is the genre of the movie Yentl?		Drama,Musical	movie_to_genre
+what type of movie is The Gospel According to St. Matthew?		Drama	movie_to_genre
+what type of film is Requiem for a Heavyweight?		Drama	movie_to_genre
+what was the genre of the movie Mallrats?		Comedy	movie_to_genre
+what is the genre for the film The In Crowd?		Thriller	movie_to_genre
+what is the genre of the movie Wieners?		Comedy	movie_to_genre
+what sort of movie is City of Angels?		Drama,Fantasy	movie_to_genre
+what is the genre for Eve's Bayou?		Drama	movie_to_genre
+what type of film is Reign of Fire?		Action,Fantasy	movie_to_genre
+what type of movie is Born to Dance?		Comedy,Musical	movie_to_genre
+what was the genre of A Question of Silence?		Drama	movie_to_genre
+what type of film is It Felt Like Love?		Drama	movie_to_genre
+what film genre is The Raid 2?		Action,Crime	movie_to_genre
+what genre is Comanche Station in?		Western	movie_to_genre
+what was the genre of the film Buffy the Vampire Slayer?		Comedy,Action	movie_to_genre
+what genre of movie is Venom?		Horror	movie_to_genre
+what is the genre for the movie Run Ronnie Run?		Comedy	movie_to_genre
+what is the genre for the movie Trick?		Comedy	movie_to_genre
+what is the genre for the film King Creole?		Drama,Musical	movie_to_genre
+what sort of movie is Radio On?		Music	movie_to_genre
+what was the genre of Mischief Night?		Thriller,Horror	movie_to_genre
+what genre is Requiem in?		Drama	movie_to_genre
+what genre of film is Orgazmo?		Comedy	movie_to_genre
+what type of film is Cabeza de Vaca?		Adventure	movie_to_genre
+what kind of movie is The Boxtrolls?		Comedy,Adventure	movie_to_genre
+what is the genre for The Passion of Joan of Arc?		History	movie_to_genre
+what is the genre of the movie Putty Hill?		Drama	movie_to_genre
+what sort of movie is A Christmas Story?		Comedy	movie_to_genre
+what type of film is Enough Said?		Comedy	movie_to_genre
+what type of movie is Karen Cries on the Bus?		Drama	movie_to_genre
+what type of film is New in Town?		Comedy	movie_to_genre
+what is the genre for the film Across 110th Street?		Drama,Crime	movie_to_genre
+what was the genre of the movie The Sheepman?		Western	movie_to_genre
+what kind of movie is Hairspray?		Comedy,Musical	movie_to_genre
+what genre of film is Blue Skies?		Comedy,Musical	movie_to_genre
+what kind of movie is Yatterman?		Comedy,Action	movie_to_genre
+what is the genre of the film The Comedy of Terrors?		Comedy,Horror	movie_to_genre
+what film genre is Something of Value?		Drama	movie_to_genre
+what type of film is What Goes Up?		Drama	movie_to_genre
+what is the genre of the movie Diamond Dogs?		Action	movie_to_genre
+what was the genre of J'accuse!?		War	movie_to_genre
+what genre of film is Road to Zanzibar?		Comedy	movie_to_genre
+what is the genre of the movie Bookies?		Comedy	movie_to_genre
+what is the genre of the movie S.O.B.?		Comedy	movie_to_genre
+what sort of film is Nazareno Cruz and the Wolf?		Fantasy	movie_to_genre
+what genre is The We and the I in?		Drama	movie_to_genre
+what genre does The Rescuers fall under?		Adventure	movie_to_genre
+what is the genre for the film Comrades?		Drama	movie_to_genre
+what is the genre for Eden?		Drama	movie_to_genre
+what genre of film is Imaginary Crimes?		Drama	movie_to_genre
+what was the genre of the movie My Fair Lady?		Musical	movie_to_genre
+what kind of film is About Schmidt?		Drama,Comedy	movie_to_genre
+what film genre is Porgy and Bess?		Musical	movie_to_genre
+what genre of movie is Full Metal Jacket?		War	movie_to_genre
+what type of movie is Crying Freeman?		Action	movie_to_genre
+what kind of movie is The Lodger?		Horror	movie_to_genre
+what was the genre of the movie Don't Be Afraid of the Dark?		Fantasy,Horror	movie_to_genre
+what is the genre for the film The Flowers of War?		Drama,War	movie_to_genre
+what type of movie is The Poll Diaries?		Drama	movie_to_genre
+what kind of movie is The History Boys?		Drama,Comedy	movie_to_genre
+what genre of movie is King of Comedy?		Drama,Comedy	movie_to_genre
+what sort of movie is Judex?		Crime	movie_to_genre
+what is the genre for The Punisher?		Action	movie_to_genre
+what is the genre of Stardust?		Fantasy	movie_to_genre
+what is the genre for the movie Eyewitness?		Thriller	movie_to_genre
+what genre does A Murder of Crows fall under?		Thriller	movie_to_genre
+what genre of film is At Play in the Fields of the Lord?		Drama	movie_to_genre
+what was the genre of the movie Superdad?		Comedy	movie_to_genre
+what is the genre of The Scarecrow?		Comedy,Short	movie_to_genre
+what genre is Tuck Everlasting in?		Family	movie_to_genre
+what is the genre of Torpedo Run?		War	movie_to_genre
+what genre of movie is Slumming?		Comedy	movie_to_genre
+what is the genre for the movie Jack the Giant Killer?		Adventure,Fantasy	movie_to_genre
+what kind of movie is The Marc Pease Experience?		Comedy,Music	movie_to_genre
+what kind of movie is Changing Times?		Drama	movie_to_genre
+what sort of film is The Last Time I Saw Archie?		Comedy,War	movie_to_genre
+what genre does If Winter Comes fall under?		Drama	movie_to_genre
+what is the genre of Double Jeopardy?		Thriller	movie_to_genre
+what genre is In Order of Disappearance in?		Action	movie_to_genre
+what was the genre of the movie The Grudge 3?		Horror	movie_to_genre
+what was the genre of the movie The Fifth Cord?		Thriller	movie_to_genre
+what is the genre of the film Will Penny?		Western	movie_to_genre
+what kind of film is Until Death?		Action	movie_to_genre
+what is the genre for the movie The Other Sister?		Comedy	movie_to_genre
+what is the genre for The Paper?		Drama,Comedy	movie_to_genre
+what is the genre of the movie The Croods?		Comedy,Adventure,Animation	movie_to_genre
+what kind of film is Joe Gould's Secret?		Drama	movie_to_genre
+what was the genre of When Harry Met Sally...?		Comedy	movie_to_genre
+what is the genre for The Bourne Legacy?		Action	movie_to_genre
+what was the genre of the movie Empire of the Ants?		Horror	movie_to_genre
+what kind of movie is The Odd Couple?		Comedy	movie_to_genre
+what is the genre of BUtterfield 8?		Drama	movie_to_genre
+what is the genre for the movie Mr. Nice?		Crime,Biography	movie_to_genre
+what is the genre of Another Country?		Drama	movie_to_genre
+what is the genre for the film The Weather Man?		Drama,Comedy	movie_to_genre
+what genre does Staying Together fall under?		Drama,Comedy	movie_to_genre
+what is the genre for The Prisoner of Zenda?		Comedy,Adventure	movie_to_genre
+what type of movie is Two Girls and a Sailor?		Musical	movie_to_genre
+what was the genre of Somebody Up There Likes Me?		Comedy	movie_to_genre
+what sort of film is Chernobyl Diaries?		Horror	movie_to_genre
+what genre is Toy Story in?		Comedy,Adventure,Animation	movie_to_genre
+what genre does Legion fall under?		Action	movie_to_genre
+what is the genre of the film Money Talks?		Comedy,Action	movie_to_genre
+what film genre is Isolation?		Horror	movie_to_genre
+what is the genre for the film 96 Minutes?		Drama,Thriller	movie_to_genre
+what is the genre for Dance Flick?		Comedy	movie_to_genre
+what was the genre of the movie Top Hat?		Comedy,Musical	movie_to_genre
+what genre is The Spiral Staircase in?		Thriller	movie_to_genre
+what genre does Lonelyhearts fall under?		Drama	movie_to_genre
+what is the genre for the movie The Adventures of Baron Munchausen?		Comedy,Adventure,Fantasy	movie_to_genre
+what sort of movie is The Hunters?		Thriller	movie_to_genre
+what film genre is McLintock!?		Comedy,Western	movie_to_genre
+what sort of film is Reasonable Doubt?		Thriller,Crime	movie_to_genre
+what genre is Dedication in?		Comedy	movie_to_genre
+what film genre is Our Children?		Drama	movie_to_genre
+what was the genre of the film Look Who's Talking?		Comedy	movie_to_genre
+what was the genre of the film The Children Are Watching Us?		Drama	movie_to_genre
+what genre does Searching for Sugar Man fall under?		Music,Documentary	movie_to_genre
+what is the genre of the movie Call Northside 777?		Crime	movie_to_genre
+what is the genre of the film The Muppets?		Comedy,Musical	movie_to_genre
+what genre of film is Sweet Mud?		Drama	movie_to_genre
+what sort of film is When the Game Stands Tall?		Drama,Sport	movie_to_genre
+what is the genre of the film Jeremiah Johnson?		Western	movie_to_genre
+what film genre is The Eye of the Storm?		Drama	movie_to_genre
+what is the genre of the film Kites?		Action	movie_to_genre
+what type of movie is License to Wed?		Comedy	movie_to_genre
+what is the genre for the movie Double Team?		Comedy,Action	movie_to_genre
+what is the genre of The Ashes?		Drama	movie_to_genre
+what was the genre of Beginners?		Drama,Comedy	movie_to_genre
+what sort of movie is The Betrayed?		Crime	movie_to_genre
+what genre is Kapò in?		War	movie_to_genre
+what is the genre for She Done Him Wrong?		Drama,Comedy	movie_to_genre
+what kind of movie is Someone Marry Barry?		Comedy	movie_to_genre
+what genre is Vera Cruz in?		Western	movie_to_genre
+what film genre is Blame It on Rio?		Comedy	movie_to_genre
+what type of movie is The Music Man?		Musical	movie_to_genre
+what is the genre for the movie Konga?		Horror	movie_to_genre
+what was the genre of Dear God?		Comedy	movie_to_genre
+what genre of film is The Oh in Ohio?		Comedy	movie_to_genre
+what genre of movie is A.C.O.D.?		Comedy	movie_to_genre
+what was the genre of the movie Whatever Works?		Comedy	movie_to_genre
+what was the genre of the film Inside Moves?		Drama	movie_to_genre
+what is the genre of All the King's Men?		Drama	movie_to_genre
+what type of film is The Good German?		Mystery	movie_to_genre
+what is the genre of the film Mr. Wrong?		Comedy	movie_to_genre
+what is the genre for The Woman on Pier 13?		Drama	movie_to_genre
+what is the genre for the movie Berberian Sound Studio?		Thriller,Horror	movie_to_genre
+what kind of film is The Secret of the Grain?		Drama	movie_to_genre
+what sort of movie is Safety Last!?		Comedy	movie_to_genre
+what is the genre of Ana and the Others?		Drama	movie_to_genre
+what genre does The Groove Tube fall under?		Comedy	movie_to_genre
+what type of movie is Mayerling?		Drama	movie_to_genre
+what genre of film is The Sure Thing?		Comedy	movie_to_genre
+what kind of film is Queen of Hearts?		Comedy	movie_to_genre
+what kind of movie is Blood Diamond?		Thriller	movie_to_genre
+what is the genre for Happiness Never Comes Alone?		Comedy	movie_to_genre
+what kind of film is Happily N'Ever After?		Animation	movie_to_genre
+what is the genre for the movie Seed?		Horror	movie_to_genre
+what type of film is The Princess Bride?		Comedy,Adventure	movie_to_genre
+what is the genre for the film Body Count?		Thriller,Crime	movie_to_genre
+what was the genre of the movie Presumed Innocent?		Mystery	movie_to_genre
+what film genre is Dr. Goldfoot and the Girl Bombs?		Comedy	movie_to_genre
+what sort of film is Real Genius?		Comedy	movie_to_genre
+what genre is A Streetcar Named Desire in?		Drama	movie_to_genre
+what type of movie is How to Train Your Dragon 2?		Action,Animation	movie_to_genre
+what genre of film is City of Ghosts?		Drama	movie_to_genre
+what type of film is Pathfinder?		Action,Adventure	movie_to_genre
+what is the genre for the movie Wild Things?		Crime	movie_to_genre
+what is the genre for Stranger by the Lake?		Drama,Thriller	movie_to_genre
+what is the genre of the film Beyond Re-Animator?		Horror	movie_to_genre
+what sort of film is Six Pack?		Drama,Comedy	movie_to_genre
+what genre of film is Les Misérables?		Drama	movie_to_genre
+what is the genre for The Turin Horse?		Drama	movie_to_genre
+what is the genre for the film Forbidden Zone?		Comedy,Musical	movie_to_genre
+what genre does My Son the Fanatic fall under?		Drama	movie_to_genre
+what sort of movie is Higher and Higher?		Musical	movie_to_genre
+what sort of film is Hour of the Wolf?		Drama,Horror	movie_to_genre
+what was the genre of the movie The Buccaneer?		Adventure	movie_to_genre
+what genre of movie is Looking for Richard?		Documentary	movie_to_genre
+what genre of film is Portrait Werner Herzog?		Documentary,Short	movie_to_genre
+what is the genre of Camouflage?		Comedy,Action	movie_to_genre
+what sort of film is Blackbird?		Drama	movie_to_genre
+what is the genre for the movie Big Eden?		Drama	movie_to_genre
+what is the genre of the movie Loverboy?		Comedy	movie_to_genre
+what genre does The Pool fall under?		Drama	movie_to_genre
+what is the genre for The Parent Trap?		Comedy	movie_to_genre
+what was the genre of Bride of Re-Animator?		Horror	movie_to_genre
+what type of film is Romeo + Juliet?		Drama	movie_to_genre
+what is the genre for the film Zombie and the Ghost Train?		Music	movie_to_genre
+what genre of film is Wendy and Lucy?		Drama	movie_to_genre
+what was the genre of the film Barefoot Gen?		Drama	movie_to_genre
+what type of movie is Perfect Sisters?		Drama,Crime	movie_to_genre
+what was the genre of the movie This Is 40?		Comedy	movie_to_genre
+what film genre is Charlie Chan's Chance?		Mystery	movie_to_genre
+what was the genre of Bartok the Magnificent?		Family	movie_to_genre
+what sort of movie is The Strangers?		Horror	movie_to_genre
+what genre does House of Women fall under?		Drama,Crime	movie_to_genre
+what was the genre of the film My Science Project?		Comedy	movie_to_genre
+what was the genre of the movie In the Cut?		Thriller,Mystery	movie_to_genre
+what sort of film is Penitentiary II?		Drama	movie_to_genre
+what type of movie is Blood Done Sign My Name?		Drama	movie_to_genre
+what kind of film is Crave?		Drama,Thriller	movie_to_genre
+what type of film is Dead Ringer?		Thriller	movie_to_genre
+what was the genre of the film Oscar and Lucinda?		Drama	movie_to_genre
+what is the genre of the movie The Smiling Ghost?		Comedy	movie_to_genre
+what kind of film is The Grudge?		Horror	movie_to_genre
+what sort of movie is Leave It to Beaver?		Comedy,Family	movie_to_genre
+what genre of movie is The Interpreter?		Thriller	movie_to_genre
+what film genre is Wedlock?		Action	movie_to_genre
+what type of film is The Makioka Sisters?		Drama	movie_to_genre
+what type of movie is The Balloonatic?		Comedy,Short	movie_to_genre
+what sort of movie is The Grey Fox?		Western	movie_to_genre
+what genre does Under the Tuscan Sun fall under?		Drama,Comedy	movie_to_genre
+what was the genre of the film American Roulette?		Thriller	movie_to_genre
+what type of film is The Bride Came C.O.D.?		Comedy	movie_to_genre
+what type of movie is Babylon A.D.?		Action	movie_to_genre
+what was the genre of the movie Wild America?		Comedy,Adventure	movie_to_genre
+what is the genre for the movie Elvis and Anabelle?		Drama	movie_to_genre
+what sort of movie is Rooster Cogburn?		Western	movie_to_genre
+what is the genre for the film The Impostors?		Comedy	movie_to_genre
+what type of movie is Absurdistan?		Comedy	movie_to_genre
+what is the genre of Sky High?		Comedy,Family	movie_to_genre
+what genre does Gentlemen Prefer Blondes fall under?		Musical	movie_to_genre
+what is the genre for Blow Out?		Thriller	movie_to_genre
+what was the genre of the movie Outrageous Fortune?		Comedy	movie_to_genre
+what was the genre of the movie Armour of God?		Comedy,Action	movie_to_genre
+what type of movie is A Film with Me in It?		Comedy	movie_to_genre
+what genre does Bright Victory fall under?		War	movie_to_genre
+what genre does What Maisie Knew fall under?		Drama	movie_to_genre
+what type of movie is Bogus?		Fantasy	movie_to_genre
+what type of movie is Dangerous Ground?		Thriller	movie_to_genre
+what is the genre of 2 Days in Paris?		Drama,Comedy	movie_to_genre
+what was the genre of Mad Detective?		Thriller	movie_to_genre
+what was the genre of the movie A Christmas Carol?		Drama,Fantasy,Family	movie_to_genre
+what was the genre of An Unforgettable Summer?		Drama,War	movie_to_genre
+what was the genre of the movie Wee Willie Winkie?		Adventure	movie_to_genre
+what is the genre of the movie The Man in Possession?		Comedy	movie_to_genre
+what is the genre of Johnny English?		Comedy	movie_to_genre
+what is the genre for Meet the Applegates?		Comedy	movie_to_genre
+what is the genre of the film Coming to America?		Comedy	movie_to_genre
+what sort of movie is After Tiller?		Documentary	movie_to_genre
+what was the genre of the movie Light Sleeper?		Drama	movie_to_genre
+what was the genre of the film Kawa?		Drama	movie_to_genre
+what genre does Ben X fall under?		Drama	movie_to_genre
+what film genre is Mr. Popper's Penguins?		Comedy,Family	movie_to_genre
+what type of film is White Zombie?		Horror	movie_to_genre
+what film genre is Beneath the Harvest Sky?		Drama	movie_to_genre
+what is the genre for The Last Kiss?		Drama,Comedy	movie_to_genre
+what was the genre of the movie Magic Town?		Comedy	movie_to_genre
+what was the genre of the movie The Rare Breed?		Western	movie_to_genre
+what genre of movie is The Big Empty?		Drama	movie_to_genre
+what is the genre for the film Erin Brockovich?		Drama	movie_to_genre
+what kind of film is There Goes My Heart?		Comedy	movie_to_genre
+what was the genre of the film Dillinger Is Dead?		Drama	movie_to_genre
+what was the genre of The House of Seven Corpses?		Horror	movie_to_genre
+what was the genre of the movie The Creature Wasn't Nice?		Comedy,Horror,Musical	movie_to_genre
+what is the genre for the film Pixote?		Drama,Crime	movie_to_genre
+what is the genre for Mystic River?		Drama,Mystery	movie_to_genre
+what kind of movie is Street Kings?		Action	movie_to_genre
+what type of movie is The Mortal Storm?		Drama	movie_to_genre
+what genre is Mr. Wonderful in?		Comedy	movie_to_genre
+what genre of movie is Shoot the Moon?		Drama	movie_to_genre
+what was the genre of the film Will Success Spoil Rock Hunter??	?	Comedy	movie_to_genre
+what sort of movie is Right at Your Door?		Thriller	movie_to_genre
+what is the genre of the movie Harry and the Hendersons?		Comedy,Fantasy,Family	movie_to_genre
+what genre of movie is The Animal?		Comedy	movie_to_genre
+what type of movie is Ride Beyond Vengeance?		Western	movie_to_genre
+what genre of film is Blood and Black Lace?		Thriller,Horror	movie_to_genre
+what sort of movie is Ghajini?		Action	movie_to_genre
+what was the genre of Wedding Daze?		Comedy	movie_to_genre
+what is the genre of the film Somewhere?		Drama,Comedy	movie_to_genre
+what type of movie is Not Safe for Work?		Thriller	movie_to_genre
+what kind of film is Dark Water?		Thriller,Horror	movie_to_genre
+what is the genre of the movie The Secret of NIMH?		Drama	movie_to_genre
+what is the genre for the film Chasing Sleep?		Thriller	movie_to_genre
+what is the genre for the film Plymouth Adventure?		Drama,Adventure	movie_to_genre
+what sort of movie is Penelope?		Comedy,Fantasy	movie_to_genre
+what genre of film is I'll Sleep When I'm Dead?		Drama,Crime	movie_to_genre
+what was the genre of the film Corpse Bride?		Fantasy	movie_to_genre
+what was the genre of the film Spirit Trap?		Thriller,Horror	movie_to_genre
+what genre is For the Moment in?		Romance,War	movie_to_genre
+what genre of film is The Violent Kind?		Horror	movie_to_genre
+what genre of movie is Sherman's March?		Documentary	movie_to_genre
+what film genre is Ciao, Professore!?		Comedy	movie_to_genre
+what kind of movie is Crazy Love?		Documentary	movie_to_genre
+what is the genre for the movie Are You Here?		Comedy	movie_to_genre
+what sort of movie is The Astronaut Farmer?		Drama	movie_to_genre
+what sort of film is Cold Weather?		Mystery	movie_to_genre
+what genre of movie is Songcatcher?		Drama,Music	movie_to_genre
+what sort of movie is Soul Surfer?		Drama,Biography	movie_to_genre
+what was the genre of the movie One-Eyed Monster?		Comedy,Horror	movie_to_genre
+what was the genre of the movie The Best Little Whorehouse in Texas?		Comedy,Musical	movie_to_genre
+what film genre is Sudden Fear?		Thriller	movie_to_genre
+what type of movie is Charlie Chan at the Wax Museum?		Mystery	movie_to_genre
+what film genre is The Guru?		Comedy	movie_to_genre
+what genre does Are You Scared? fall under?	fall under?	Horror	movie_to_genre
+what is the genre of Romulus, My Father?		Drama	movie_to_genre
+what type of movie is Bob the Butler?		Comedy,Family	movie_to_genre
+what kind of movie is Invictus?		Drama	movie_to_genre
+what genre of movie is Beyond Hypothermia?		Action	movie_to_genre
+what is the genre of the movie The Godfather?		Crime	movie_to_genre
+what genre is The Ambushers in?		Comedy	movie_to_genre
+what genre of film is The Awakening?		Horror	movie_to_genre
+what sort of film is Queen of Blood?		Horror	movie_to_genre
+what film genre is Disco Godfather?		Action	movie_to_genre
+what film genre is Late Autumn?		Drama	movie_to_genre
+what sort of film is Artois the Goat?		Comedy	movie_to_genre
+what was the genre of the movie The Messengers?		Horror	movie_to_genre
+what kind of movie is Star of Midnight?		Comedy,Mystery	movie_to_genre
+what is the genre for the film La Vie en Rose?		Music	movie_to_genre
+what sort of film is You Light Up My Life?		Drama	movie_to_genre
+what genre does Mutant Chronicles fall under?		Horror	movie_to_genre
+what is the genre for Meet Monica Velour?		Drama,Comedy	movie_to_genre
+what kind of film is A Tale of Two Cities?		Drama	movie_to_genre
+what genre does Hell of the Living Dead fall under?		Horror	movie_to_genre
+what genre is Home of the Brave in?		War	movie_to_genre
+what is the genre for the movie Blue?		Western	movie_to_genre
+what is the genre of The Sheltering Sky?		Drama	movie_to_genre
+what is the genre for the movie Total Recall?		Action	movie_to_genre
+what type of movie is The Hole?		Horror	movie_to_genre
+what was the genre of Capricorn One?		Thriller	movie_to_genre
+what genre is The Lost Son in?		Drama,Crime	movie_to_genre
+what is the genre of the movie Hamburger Hill?		War	movie_to_genre
+what is the genre of Inside Llewyn Davis?		Drama,Music	movie_to_genre
+what sort of movie is Terror in a Texas Town?		Western	movie_to_genre
+what sort of film is The Black Room?		Horror	movie_to_genre
+what genre of film is The Earth Is a Sinful Song?		Drama	movie_to_genre
+what is the genre for The Sicilian?		Action	movie_to_genre
+what is the genre of the film Ain't Them Bodies Saints?		Drama,Crime	movie_to_genre
+what type of movie is The Incredible Burt Wonderstone?		Comedy	movie_to_genre
+what is the genre for Big Girls Don't Cry... They Get Even?		Comedy	movie_to_genre
+what genre does Rampage fall under?		Thriller	movie_to_genre
+what genre of film is Frozen Land?		Drama	movie_to_genre
+what is the genre of the movie The Devil's Rejects?		Horror	movie_to_genre
+what type of movie is Saboteur?		Thriller	movie_to_genre
+what is the genre for The Five-Year Engagement?		Comedy	movie_to_genre
+what genre of movie is Trick 'r Treat?		Horror	movie_to_genre
+what type of movie is Night Moves?		Mystery	movie_to_genre
+what kind of film is The Toxic Avenger Part II?		Comedy,Horror	movie_to_genre
+what is the genre for the movie Batman?		Action	movie_to_genre
+what was the genre of the movie Dark and Stormy Night?		Mystery	movie_to_genre
+what genre does Jennifer 8 fall under?		Mystery	movie_to_genre
+what was the genre of Bad Boys?		Comedy,Action	movie_to_genre
+what was the genre of the film Jackass 3D?		Comedy	movie_to_genre
+what kind of film is Black Nativity?		Drama,Musical	movie_to_genre
+what genre is Land of the Lost in?		Comedy,Adventure	movie_to_genre
+what is the genre for the film Crazy on the Outside?		Comedy	movie_to_genre
+what film genre is Batman?		Action,Crime	movie_to_genre
+what is the genre of the film The Eddy Duchin Story?		Music	movie_to_genre
+what was the genre of the film Rock 'n' Roll Nightmare?		Horror,Music	movie_to_genre
+what was the genre of Vertigo?		Thriller	movie_to_genre
+what was the genre of Out of the Blue?		History,Documentary	movie_to_genre
+what is the genre of the movie The Trap?		Crime	movie_to_genre
+what kind of film is River of No Return?		Western	movie_to_genre
+what is the genre of the movie Brotherhood of the Wolf?		Drama,Action	movie_to_genre
+what genre does Floating Skyscrapers fall under?		Drama	movie_to_genre
+what kind of movie is Linsanity?		Documentary	movie_to_genre
+what genre does Torrid Zone fall under?		Adventure	movie_to_genre
+what kind of film is Nothing Left to Fear?		Horror	movie_to_genre
+what was the genre of the movie My Boyfriend's Back?		Comedy,Fantasy,Horror	movie_to_genre
+what genre is To the Devil a Daughter in?		Horror	movie_to_genre
+what genre of movie is Dragonfly?		Drama	movie_to_genre
+what film genre is Inherent Vice?		Drama,Crime	movie_to_genre
+what is the genre of the movie The Horse Soldiers?		War	movie_to_genre
+what was the genre of the movie The Wind Rises?		Drama,Animation,Biography	movie_to_genre
+what sort of movie is Run, Man, Run?		Western	movie_to_genre
+what genre of film is A Little Night Music?		Musical	movie_to_genre
+what genre of film is Quai des Orfèvres?		Drama	movie_to_genre
+what genre of film is The Case of the Lucky Legs?		Mystery	movie_to_genre
+what is the genre for The Chorus?		Drama,Music	movie_to_genre
+what genre does Downloading Nancy fall under?		Drama	movie_to_genre
+what genre of film is Somewhere in the City?		Drama,Comedy	movie_to_genre
+what genre does The Hitcher fall under?		Thriller	movie_to_genre
+what genre does April Captains fall under?		Drama	movie_to_genre
+what is the genre of the film Spring Breakers?		Drama,Crime	movie_to_genre
+what was the genre of Inside?		Horror	movie_to_genre
+what is the genre for La Dolce Vita?		Drama,Comedy	movie_to_genre
+what kind of movie is Ernest Goes to Camp?		Comedy	movie_to_genre
+what was the genre of Pitch Perfect?		Comedy,Music	movie_to_genre
+what was the genre of the film Shooter?		Action	movie_to_genre
+what genre of film is The Sword and the Rose?		Adventure,Family	movie_to_genre
+what film genre is Contamination?		Horror	movie_to_genre
+what type of film is The Front Page?		Comedy	movie_to_genre
+what is the genre for Love Happens?		Drama,Romance	movie_to_genre
+what kind of film is National Lampoon's Vacation?		Comedy	movie_to_genre
+what is the genre of The Clock?		Drama	movie_to_genre
+what is the genre of the film Semi-Tough?		Comedy,Romance	movie_to_genre
+what is the genre of the movie There's Always a Woman?		Comedy,Mystery	movie_to_genre
+what kind of film is Gosford Park?		Mystery	movie_to_genre
+what type of film is The Little Shop of Horrors?		Comedy,Horror	movie_to_genre
+what was the genre of the movie Gardens of Stone?		Drama	movie_to_genre
+what is the genre for The Beautiful Country?		Drama	movie_to_genre
+what film genre is The Flying Fleet?		Drama	movie_to_genre
+what sort of film is Hit and Runway?		Comedy	movie_to_genre
+what type of movie is Ghost Ship?		Horror	movie_to_genre
+what is the genre for the movie Joan of Paris?		War	movie_to_genre
+what genre of film is The Hit?		Drama	movie_to_genre
+what kind of film is Wild Zero?		Horror	movie_to_genre
+what is the genre of the movie Dogma?		Comedy	movie_to_genre
+what is the genre of the film The Pride of St. Louis?		Biography	movie_to_genre
+what type of movie is Lethal Weapon 4?		Action	movie_to_genre
+what is the genre for the movie The Road to Wellville?		Drama,Comedy	movie_to_genre
+what was the genre of The Naked Man?		Comedy	movie_to_genre
+what sort of movie is That Certain Woman?		Drama	movie_to_genre
+what type of film is The Bodyguard?		Music	movie_to_genre
+what sort of film is Next Friday?		Comedy	movie_to_genre
+what was the genre of the movie Punchline?		Comedy	movie_to_genre
+what type of film is The Poughkeepsie Tapes?		Horror	movie_to_genre
+what film genre is Crazy Safari?		Comedy	movie_to_genre
+what genre does Winter Solstice fall under?		Drama	movie_to_genre
+what genre of film is Sweet Land?		Drama	movie_to_genre
+what was the genre of the film A Slipping-Down Life?		Drama	movie_to_genre
+what genre of film is She Hate Me?		Drama,Comedy	movie_to_genre
+what genre of movie is Formosa Betrayed?		Thriller	movie_to_genre
+what was the genre of Salon Kitty?		Drama	movie_to_genre
+what is the genre of Mark of the Vampire?		Horror	movie_to_genre
+what genre does The Babadook fall under?		Horror	movie_to_genre
+what is the genre for the movie The Golden Compass?		Adventure,Fantasy	movie_to_genre
+what kind of film is Queen of the Damned?		Horror	movie_to_genre
+what is the genre for Slither?		Comedy,Horror	movie_to_genre
+what genre does Mystics in Bali fall under?		Horror	movie_to_genre
+what was the genre of Beer Wars?		Documentary	movie_to_genre
+what type of movie is A Perfect Getaway?		Thriller	movie_to_genre
+what is the genre of the movie Mosquito Squadron?		War	movie_to_genre
+what genre of movie is That Championship Season?		Drama	movie_to_genre
+what type of film is Let's Get Harry?		Action	movie_to_genre
+what genre of film is Song of the Sea?		Fantasy	movie_to_genre
+what genre of movie is The Little Thief?		Drama	movie_to_genre
+what kind of film is Crossfire?		Drama	movie_to_genre
+what genre of movie is The Gunfighter?		Western	movie_to_genre
+what is the genre for the film The Quiet Room?		Drama	movie_to_genre
+what sort of film is Normal Adolescent Behavior?		Drama	movie_to_genre
+what kind of movie is Numb?		Drama	movie_to_genre
+what was the genre of the movie Daens?		Drama	movie_to_genre
+what is the genre of the film Ellie Parker?		Drama,Comedy	movie_to_genre
+what is the genre for Inhale?		Thriller	movie_to_genre
+what genre of film is The Happening?		Thriller	movie_to_genre
+what is the genre for the movie The Baxter?		Comedy	movie_to_genre
+what genre does Excuse My Dust fall under?		Comedy	movie_to_genre
+what kind of movie is The Bridge of San Luis Rey?		Drama	movie_to_genre
+what is the genre of the movie Erased?		Thriller	movie_to_genre
+what is the genre of the movie Reservoir Dogs?		Crime	movie_to_genre
+what genre is (Untitled) in?		Comedy	movie_to_genre
+what was the genre of Battle of Los Angeles?		Action	movie_to_genre
+what was the genre of the film Wake of Death?		Action	movie_to_genre
+what kind of film is Broken Sky?		Drama	movie_to_genre
+what is the genre of the movie Rising Sun?		Crime	movie_to_genre
+what genre of movie is Triggermen?		Comedy,Crime	movie_to_genre
+what kind of film is The Fastest Gun Alive?		Western	movie_to_genre
+what genre of film is Invisible Stripes?		Crime	movie_to_genre
+what was the genre of Missing in America?		Drama,War	movie_to_genre
+what genre of film is Trouble in Paradise?		Comedy	movie_to_genre
+what was the genre of The Winslow Boy?		Drama	movie_to_genre
+what is the genre for the film Shriek of the Mutilated?		Horror	movie_to_genre
+what is the genre of the movie The Conspirator?		Drama	movie_to_genre
+what was the genre of the film Teorema?		Mystery	movie_to_genre
+what is the genre for the film Twister?		Comedy	movie_to_genre
+what genre is The Girl in the Café in?		Drama	movie_to_genre
+what genre of movie is The Ballad of Jack and Rose?		Drama	movie_to_genre
+what is the genre for the movie Flame of Barbary Coast?		Western	movie_to_genre
+what was the genre of Jesse James Meets Frankenstein's Daughter?		Horror,Western	movie_to_genre
+what is the genre of The Pixar Story?		Documentary	movie_to_genre
+what film genre is The Punisher?		Action	movie_to_genre
+what was the genre of the film A Kind of Loving?		Drama	movie_to_genre
+what genre of movie is Laws of Attraction?		Comedy	movie_to_genre
+what kind of film is Cellular?		Thriller,Crime	movie_to_genre
+what genre is The Nines in?		Drama,Fantasy	movie_to_genre
+what type of film is Burden of Dreams?		Documentary	movie_to_genre
+what is the genre of the film Janie Jones?		Drama,Music	movie_to_genre
+what genre of movie is Ocean Heaven?		Drama	movie_to_genre
+what genre is Jonah Hex in?		Action,Fantasy	movie_to_genre
+what type of film is Hangman's Knot?		Western	movie_to_genre
+what is the genre of the film Pretty Persuasion?		Drama,Comedy	movie_to_genre
+what film genre is Margaret's Museum?		Drama	movie_to_genre
+what genre of movie is Chef?		Comedy	movie_to_genre
+what is the genre of Switch?		Comedy	movie_to_genre
+what genre of movie is The Informant!?		Comedy,Crime	movie_to_genre
+what kind of film is The Music of Chance?		Drama	movie_to_genre
+what is the genre for City of the Living Dead?		Horror	movie_to_genre
+what type of film is Death Before Dishonor?		Action	movie_to_genre
+what was the genre of Death Wish 3?		Action	movie_to_genre
+what kind of movie is The Kiss?		Drama	movie_to_genre
+what is the genre for the film The Time Machine?		Fantasy	movie_to_genre
+what is the genre of the film Jingle All the Way?		Comedy,Family	movie_to_genre
+what genre of film is The Opposite Sex?		Comedy,Musical	movie_to_genre
+what was the genre of the film Popatopolis?		Documentary	movie_to_genre
+what type of movie is The Theory of Everything?		Drama	movie_to_genre
+what is the genre of 700 Sundays?		Biography	movie_to_genre
+what is the genre of the film Deewaar?		Drama,Action,Crime	movie_to_genre
+what type of film is Killing Season?		Action	movie_to_genre
+what is the genre of the film Roustabout?		Music,Musical	movie_to_genre
+what is the genre of the film 711 Ocean Drive?		Drama,Crime	movie_to_genre
+what genre is The Riot Club in?		Drama,Thriller	movie_to_genre
+what kind of movie is Air Doll?		Drama	movie_to_genre
+what is the genre for Shara?		Drama	movie_to_genre
+what genre of film is Gloria?		Thriller,Crime	movie_to_genre
+what type of movie is Attack of the Crab Monsters?		Horror	movie_to_genre
+what sort of movie is Wyatt Earp's Revenge?		Western	movie_to_genre
+what kind of movie is That's Entertainment! III?		Musical,Documentary	movie_to_genre
+what type of film is Not Cool?		Comedy	movie_to_genre
+what type of film is Gabrielle?		Drama	movie_to_genre
+what genre of movie is Good Advice?		Comedy	movie_to_genre
+what is the genre for the film The Quiet?		Drama,Thriller	movie_to_genre
+what sort of film is Kafka?		Mystery	movie_to_genre
+what is the genre of the film Edges of the Lord?		War	movie_to_genre
+what genre of movie is Zoom?		Adventure	movie_to_genre
+what is the genre for the movie Walk the Line?		Drama,Music	movie_to_genre
+what film genre is The More the Merrier?		Comedy	movie_to_genre
+what genre does The Private Eyes fall under?		Comedy,Mystery	movie_to_genre
+what is the genre for the movie Summer of '42?		Drama,Comedy,Romance	movie_to_genre
+what type of film is Houseguest?		Comedy	movie_to_genre
+what genre of movie is Captain Horatio Hornblower R.N.?		Adventure	movie_to_genre
+what was the genre of the film Enchanted?		Comedy,Fantasy	movie_to_genre
+what genre of film is Think Like a Man Too?		Comedy	movie_to_genre
+what is the genre for the film The Purple Plain?		War	movie_to_genre
+what is the genre for the movie The Drop?		Drama,Crime	movie_to_genre
+what type of movie is Blood?		Thriller,Crime	movie_to_genre
+what genre does Whatever Lola Wants fall under?		Drama	movie_to_genre
+what genre is Forbidden City Cop in?		Comedy	movie_to_genre
+what type of movie is Minority Report?		Mystery	movie_to_genre
+what kind of movie is Scary Movie 5?		Comedy	movie_to_genre
+what is the genre of the film Quills?		Biography	movie_to_genre
+what was the genre of Basket Case 2?		Comedy,Horror	movie_to_genre
+what genre is Slim Susie in?		Comedy,Crime	movie_to_genre
+what was the genre of the film Paperman?		Comedy,Animation,Short	movie_to_genre
+what is the genre of the film Sweet Charity?		Music	movie_to_genre
+what sort of film is Keep the Lights On?		Drama	movie_to_genre
+what sort of film is Savage Nights?		Drama	movie_to_genre
+what was the genre of the film Darkness Falls?		Horror	movie_to_genre
+what sort of film is Major Payne?		Comedy	movie_to_genre
+what is the genre for the movie One Life?		Documentary	movie_to_genre
