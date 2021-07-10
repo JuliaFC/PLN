@@ -1,8 +1,6 @@
 import sys
 import re
 
-# Usage: python regex_single_file.py "file_path"
-
 class Parser:
     
     def __init__(self, input_file):
