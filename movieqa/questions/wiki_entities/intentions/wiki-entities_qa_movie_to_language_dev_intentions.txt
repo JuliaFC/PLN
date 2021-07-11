@@ -1,0 +1,278 @@
+what language is The Exterminating Angel in?		Spanish	movie_to_language
+what is the primary language in The Criminal Life of Archibaldo de la Cruz?		Spanish	movie_to_language
+what is the primary language in the film Beautiful Boxer?		Thai	movie_to_language
+what language is the movie Harrison's Flowers in?		French	movie_to_language
+what is the language spoken in the film Something Like Happiness?		Czech	movie_to_language
+what is the language spoken in the film Pom Poko?		Japanese	movie_to_language
+what is the main language in The Flight Before Christmas?		English,Finnish	movie_to_language
+what is the language spoken in Mann tut was Mann kann?		German	movie_to_language
+what language is Japanese Story in?		Japanese	movie_to_language
+what is the main language in Backbeat?		German	movie_to_language
+what is the language spoken in Yesterday Girl?		German	movie_to_language
+what is the primary language in the film Children's Island?		Swedish	movie_to_language
+what is the primary language in the film The Great Gatsby?		English	movie_to_language
+what language is Tomboy in?		French	movie_to_language
+what language is the movie A Friend of Mine in?		German	movie_to_language
+what is the primary language in the film Oslo, August 31st?		Norwegian	movie_to_language
+what is the primary language in the film Conversation Piece?		English,Italian	movie_to_language
+what is the primary language in the film Raffles?		English	movie_to_language
+what language is Fist of Legend in?		Japanese	movie_to_language
+what language is the movie Emma's Bliss in?		German	movie_to_language
+what is the primary language in the film Gigi?		French	movie_to_language
+what is the main language in All These Women?		Swedish	movie_to_language
+what language is Walking, Walking in?		Italian	movie_to_language
+what is the language spoken in How I Killed My Father?		French	movie_to_language
+what is the main language in Brother?		Japanese	movie_to_language
+what is the primary language in the film Alice in Wonderland?		English	movie_to_language
+what is the primary language in the film Nightmare Castle?		Italian	movie_to_language
+what is the main language in Big Man Japan?		Japanese	movie_to_language
+what language is Cobra Verde in?		German	movie_to_language
+what language is the movie It Happened Here in?		German	movie_to_language
+what is the language spoken in the movie 13 Tzameti?		Georgian	movie_to_language
+what language is Bey Yaar in?		Gujarati	movie_to_language
+what language is the movie Occident in?		Romanian	movie_to_language
+what is the primary language in the film Möbius?		French,Russian	movie_to_language
+what is the language spoken in the movie Lady Liberty?		Italian	movie_to_language
+what is the language spoken in the movie The Woman in the Septic Tank?		Filipino	movie_to_language
+what is the language spoken in the film A Bullet for the General?		English,Italian	movie_to_language
+what is the primary language in Paprika?		Japanese	movie_to_language
+what is the language spoken in the film The Art of Crying?		Danish	movie_to_language
+what is the language spoken in the movie Wetlands?		German	movie_to_language
+what is the language spoken in the movie The Secret of Roan Inish?		Irish	movie_to_language
+what is the language spoken in The Fiendish Plot of Dr. Fu Manchu?		English	movie_to_language
+what language is Hatari! in?		Swahili	movie_to_language
+what language is Black River in?		Japanese	movie_to_language
+what language is the movie Forest of the Gods in?		Lithuanian	movie_to_language
+what is the language spoken in the movie The Lover?		English	movie_to_language
+what language is the movie Super Demetrios in?		Greek	movie_to_language
+what is the primary language in De Dana Dan?		Hindi	movie_to_language
+what is the main language in Sheitan?		French	movie_to_language
+what language is A Five Star Life in?		Italian	movie_to_language
+what language is Simon in?		Dutch	movie_to_language
+what language is the movie Black Sunday in?		Italian	movie_to_language
+what language is King of Hearts in?		French,German	movie_to_language
+what language is the movie The Beach in?		Thai	movie_to_language
+what language is The Great Yokai War in?		Japanese	movie_to_language
+what is the language spoken in As Above, So Below?		French	movie_to_language
+what is the primary language in the film Extraterrestrial?		Spanish	movie_to_language
+what language is the movie Table No. 21 in?		Hindi	movie_to_language
+what language is the movie Lapland Odyssey in?		Finnish	movie_to_language
+what is the main language in Iceman?		Mandarin,Cantonese	movie_to_language
+what is the language spoken in the movie Going the Distance?		English	movie_to_language
+what is the primary language in Norte, the End of History?		Filipino	movie_to_language
+what is the language spoken in Blue Spring?		Japanese	movie_to_language
+what language is Waltz with Bashir in?		English	movie_to_language
+what is the language spoken in the film Model Shop?		English	movie_to_language
+what is the language spoken in the movie La Marseillaise?		French,German	movie_to_language
+what is the language spoken in the film Happiness Never Comes Alone?		French	movie_to_language
+what is the language spoken in Privates on Parade?		English	movie_to_language
+what is the primary language in the film À Nous la Liberté?		French	movie_to_language
+what language is the movie Octopussy in?		Russian	movie_to_language
+what language is Independencia in?		Filipino	movie_to_language
+what is the language spoken in the movie Brotherhood of the Wolf?		French	movie_to_language
+what language is Eden in?		German	movie_to_language
+what language is the movie Twenty Days Without War in?		Russian	movie_to_language
+what language is Through a Glass Darkly in?		Swedish	movie_to_language
+what is the main language in The Man Who Loved Women?		French	movie_to_language
+what is the language spoken in the film The Queen and I?		Swedish	movie_to_language
+what is the primary language in the film Samurai Reincarnation?		Japanese	movie_to_language
+what is the primary language in the film The Return of the Vampire?		English	movie_to_language
+what language is the movie Unfaithful in?		French	movie_to_language
+what is the primary language in the film Entre Nous?		French	movie_to_language
+what language is the movie The Enigma of Kaspar Hauser in?		German	movie_to_language
+what language is The Wolfman in?		English	movie_to_language
+what is the primary language in the film Traffic Department?		Polish	movie_to_language
+what language is We Won't Grow Old Together in?		French	movie_to_language
+what is the primary language in An American Rhapsody?		Hungarian	movie_to_language
+what language is Sebastiane in?		Latin	movie_to_language
+what is the language spoken in The Flower of Evil?		French	movie_to_language
+what language is the movie Zatoichi and the Fugitives in?		Japanese	movie_to_language
+what is the language spoken in the movie Tea with Mussolini?		Italian	movie_to_language
+what language is the movie Those Who Love Me Can Take the Train in?		French	movie_to_language
+what is the main language in La Dolce Vita?		Italian	movie_to_language
+what language is the movie King Kong vs. Godzilla in?		English,Japanese	movie_to_language
+what is the primary language in the film Johnny English?		English	movie_to_language
+what is the main language in 10 Minutes?		Bosnian	movie_to_language
+what language is The Piano Teacher in?		French	movie_to_language
+what is the main language in Transcendence?		English	movie_to_language
+what language is Eyes Wide Open in?		German	movie_to_language
+what is the language spoken in the film Let the Bullets Fly?		Mandarin	movie_to_language
+what is the main language in Fate?		Turkish	movie_to_language
+what is the main language in Juha?		Finnish	movie_to_language
+what language is Mutants in?		French	movie_to_language
+what is the language spoken in the film Cosmonaut?		Italian	movie_to_language
+what is the primary language in The Good Son?		English	movie_to_language
+what is the language spoken in the film Wittgenstein?		English	movie_to_language
+what is the language spoken in the movie Household Saints?		Italian	movie_to_language
+what language is Kontroll in?		Hungarian	movie_to_language
+what is the main language in My Little Business?		French	movie_to_language
+what is the language spoken in the movie Nekromantik 2?		German	movie_to_language
+what is the main language in Brotherhood?		Danish	movie_to_language
+what language is Caterina in the Big City in?		Italian	movie_to_language
+what is the language spoken in Oedipus Rex?		Italian	movie_to_language
+what is the primary language in El Bola?		Spanish	movie_to_language
+what is the primary language in Ushpizin?		Hebrew	movie_to_language
+what language is the movie Ninja Scroll in?		Japanese	movie_to_language
+what is the language spoken in What Women Want?		Chinese	movie_to_language
+what is the language spoken in The New Babylon?		Russian	movie_to_language
+what is the primary language in Trouble Every Day?		French	movie_to_language
+what is the language spoken in the film Tuesday, After Christmas?		Romanian	movie_to_language
+what is the language spoken in the film 5 Centimeters Per Second?		Japanese	movie_to_language
+what is the language spoken in the film Life of Pi?		French	movie_to_language
+what is the language spoken in the movie Symmetry?		Polish	movie_to_language
+what is the language spoken in Sense and Sensibility?		English	movie_to_language
+what language is 12 in?		Russian	movie_to_language
+what is the main language in I Am Dina?		Norwegian	movie_to_language
+what is the language spoken in Fanny?		French	movie_to_language
+what is the main language in Taking Sides?		English,French,German	movie_to_language
+what is the language spoken in the film Very Happy Alexander?		French	movie_to_language
+what language is Brothers in?		Danish	movie_to_language
+what language is That Man from Rio in?		French	movie_to_language
+what is the main language in Bicycle Thieves?		Italian	movie_to_language
+what language is Phenomena in?		Italian	movie_to_language
+what language is Watchmen in?		English	movie_to_language
+what is the primary language in the film The Tale of Zatoichi?		Japanese	movie_to_language
+what is the main language in Delitto a Porta Romana?		Italian	movie_to_language
+what is the language spoken in Shadows of Forgotten Ancestors?		Ukrainian	movie_to_language
+what language is the movie The Passion of Anna in?		Swedish	movie_to_language
+what language is The Impossible in?		English	movie_to_language
+what language is the movie Jacob the Liar in?		German	movie_to_language
+what is the main language in Paris 36?		French	movie_to_language
+what language is The Saragossa Manuscript in?		Polish	movie_to_language
+what is the language spoken in The Free Will?		German	movie_to_language
+what language is Let Sleeping Corpses Lie in?		Spanish,Italian	movie_to_language
+what language is the movie Halls of Montezuma in?		Japanese	movie_to_language
+what is the language spoken in Love Me No More?		French	movie_to_language
+what is the language spoken in the movie The Great Gatsby?		English	movie_to_language
+what is the language spoken in L.A. Without a Map?		French	movie_to_language
+what is the language spoken in the movie When Marnie Was There?		Japanese	movie_to_language
+what is the language spoken in the movie The Color of Paradise?		Persian	movie_to_language
+what is the language spoken in Drunken Angel?		Japanese	movie_to_language
+what is the language spoken in Amarcord?		Italian	movie_to_language
+what is the language spoken in the movie Leviathan?		Russian	movie_to_language
+what is the language spoken in the film Beyond Outrage?		Japanese	movie_to_language
+what is the language spoken in Shoeshine?		English,Italian	movie_to_language
+what is the main language in Papillon?		English	movie_to_language
+what is the main language in The Valachi Papers?		English	movie_to_language
+what is the language spoken in the movie Purge?		Finnish	movie_to_language
+what is the main language in A Burning Hot Summer?		French	movie_to_language
+what language is the movie The Man with the Golden Gun in?		Thai	movie_to_language
+what is the primary language in Alice?		Czech	movie_to_language
+what is the primary language in Opera?		Italian	movie_to_language
+what is the primary language in the film Face to Face?		Swedish	movie_to_language
+what is the language spoken in the movie I Wish?		Japanese	movie_to_language
+what is the primary language in the film The Tomb of Ligeia?		English	movie_to_language
+what is the language spoken in the film Wicked City?		Japanese	movie_to_language
+what is the language spoken in the movie The Idiots?		Danish	movie_to_language
+what language is The Merry Widow in?		French	movie_to_language
+what is the language spoken in Sailor of the King?		German	movie_to_language
+what language is the movie Belle and Sebastian in?		French	movie_to_language
+what language is the movie Man of Iron in?		Polish	movie_to_language
+what is the language spoken in Loose Cannons?		Italian	movie_to_language
+what language is the movie M in?		German	movie_to_language
+what is the primary language in The Lady Vanishes?		English	movie_to_language
+what language is Afterwards in?		English,French	movie_to_language
+what is the language spoken in the film Femme Fatale?		French	movie_to_language
+what language is the movie What If... in?		Greek	movie_to_language
+what language is the movie Two in the Wave in?		French	movie_to_language
+what is the language spoken in The Class?		French	movie_to_language
+what is the primary language in Inside?		French	movie_to_language
+what is the primary language in Princess Mononoke?		Japanese	movie_to_language
+what is the language spoken in Czech Dream?		Czech	movie_to_language
+what language is Liliom in?		French	movie_to_language
+what is the primary language in A Little Night Music?		English	movie_to_language
+what language is The Return of Ringo in?		Italian	movie_to_language
+what language is Attila Marcel in?		French	movie_to_language
+what language is Day for Night in?		English,French	movie_to_language
+what is the language spoken in the movie Sabata?		Italian	movie_to_language
+what language is The Sorrow and the Pity in?		German	movie_to_language
+what is the language spoken in Evil?		Swedish	movie_to_language
+what is the primary language in The Man from London?		English,French	movie_to_language
+what is the language spoken in the movie Zatoichi's Revenge?		Japanese	movie_to_language
+what is the language spoken in the film The Things of Life?		French	movie_to_language
+what language is The Brothers Grimm in?		French,German	movie_to_language
+what is the language spoken in the movie Hana and Alice?		Japanese	movie_to_language
+what is the primary language in the film Survive Style 5+?		Japanese	movie_to_language
+what is the language spoken in the film Red Beard?		Japanese	movie_to_language
+what is the language spoken in Le Samouraï?		French	movie_to_language
+what is the language spoken in Camille Rewinds?		French	movie_to_language
+what is the primary language in the film Blackwoods?		English	movie_to_language
+what language is the movie The Grand Maneuver in?		French	movie_to_language
+what is the primary language in the film The Three Marias?		Portuguese	movie_to_language
+what is the language spoken in the film Cat People?		Serbian	movie_to_language
+what language is Banana Joe in?		Italian	movie_to_language
+what is the primary language in The Closet?		French	movie_to_language
+what language is the movie Promises in?		English,Arabic,Hebrew	movie_to_language
+what language is Silent Wedding in?		Romanian	movie_to_language
+what language is Rowing with the Wind in?		English	movie_to_language
+what is the primary language in the film The Gold of Naples?		Italian	movie_to_language
+what language is The Red Tent in?		Italian	movie_to_language
+what language is The Virgin Spring in?		Swedish	movie_to_language
+what language is Before the Rain in?		Macedonian	movie_to_language
+what is the language spoken in the movie Family Resemblances?		French	movie_to_language
+what is the main language in The Suspended Step of the Stork?		Greek	movie_to_language
+what is the language spoken in L'Age d'Or?		French	movie_to_language
+what is the language spoken in the movie Lucie Aubrac?		French	movie_to_language
+what is the primary language in the film The Emigrants?		Swedish	movie_to_language
+what is the language spoken in Italian for Beginners?		Italian,Danish	movie_to_language
+what is the primary language in the film Nine Lives?		Norwegian	movie_to_language
+what language is Happy New Year in?		Hindi	movie_to_language
+what language is The Forbidden Door in?		Indonesian	movie_to_language
+what is the main language in The Riddle of the Sands?		German	movie_to_language
+what is the primary language in Mina Tannenbaum?		French	movie_to_language
+what language is Operation Dumbo Drop in?		Vietnamese	movie_to_language
+what is the language spoken in the movie Wild Zero?		Japanese	movie_to_language
+what is the primary language in Human Resources?		French	movie_to_language
+what is the language spoken in 71 Fragments of a Chronology of Chance?		German	movie_to_language
+what language is the movie Mickey Blue Eyes in?		English	movie_to_language
+what language is PK in?		Hindi	movie_to_language
+what language is Man Exposed in?		Finnish	movie_to_language
+what is the primary language in Daddy Long Legs?		French	movie_to_language
+what is the primary language in the film Hukkle?		Hungarian	movie_to_language
+what language is Apartment 1303 3D in?		English	movie_to_language
+what is the primary language in Deadtime Stories?		English	movie_to_language
+what language is Torrente, el brazo tonto de la ley in?		Spanish	movie_to_language
+what is the language spoken in The Lady with the Dog?		Russian	movie_to_language
+what is the language spoken in the movie La Grande Illusion?		French	movie_to_language
+what is the primary language in Submarino?		Danish	movie_to_language
+what is the primary language in the film Charleston?		Italian	movie_to_language
+what is the language spoken in the film Journey of Hope?		Turkish	movie_to_language
+what language is English Vinglish in?		English,French,Hindi,Tamil,Telugu	movie_to_language
+what is the language spoken in the film Infection?		Japanese	movie_to_language
+what is the language spoken in The Eagle with Two Heads?		French	movie_to_language
+what language is The X from Outer Space in?		Japanese	movie_to_language
+what is the language spoken in the film Don?		Hindi	movie_to_language
+what is the language spoken in the movie Rome, Open City?		Italian	movie_to_language
+what language is the movie The Disappearance of Haruhi Suzumiya in?		Japanese	movie_to_language
+what is the primary language in the film An American Hippie in Israel?		Hebrew	movie_to_language
+what is the main language in The City of Lost Children?		French	movie_to_language
+what is the language spoken in the movie 7 Boxes?		Spanish	movie_to_language
+what is the main language in Kon-Tiki?		Norwegian	movie_to_language
+what is the primary language in Hush!?		Japanese	movie_to_language
+what is the primary language in the film The Guns of Navarone?		German	movie_to_language
+what is the primary language in the film The Promised Land?		German,Polish	movie_to_language
+what is the primary language in Enthiran?		Tamil	movie_to_language
+what is the primary language in Do Not Disturb?		English	movie_to_language
+what language is the movie Wake of Death in?		French	movie_to_language
+what is the language spoken in Casshern?		Japanese	movie_to_language
+what is the language spoken in the movie Last Exit to Brooklyn?		English	movie_to_language
+what is the primary language in the film Django the Bastard?		Italian	movie_to_language
+what language is the movie Family Law in?		Spanish	movie_to_language
+what is the main language in Desi Boyz?		Hindi	movie_to_language
+what is the main language in The Ape?		Swedish	movie_to_language
+what is the primary language in A Hijacking?		Danish	movie_to_language
+what is the language spoken in The Debt?		Polish	movie_to_language
+what is the primary language in 4?		Russian	movie_to_language
+what language is Confessions of an Opium Eater in?		English	movie_to_language
+what language is The Toy in?		French	movie_to_language
+what is the language spoken in the film Mrs Dalloway?		English	movie_to_language
+what language is the movie Teorema in?		Italian	movie_to_language
+what language is the movie Rosetta in?		French	movie_to_language
+what is the primary language in the film Camille Claudel?		French	movie_to_language
+what is the language spoken in the movie Love Is Eternal While It Lasts?		Italian	movie_to_language
+what language is The Desert of the Tartars in?		Italian	movie_to_language
+what is the primary language in Machuca?		English	movie_to_language
+what language is Lovers of the Arctic Circle in?		Spanish	movie_to_language
+what language is Stereo in?		German	movie_to_language
+what is the language spoken in Hell?		French	movie_to_language
+what is the primary language in the film Adão e Eva?		Portuguese	movie_to_language

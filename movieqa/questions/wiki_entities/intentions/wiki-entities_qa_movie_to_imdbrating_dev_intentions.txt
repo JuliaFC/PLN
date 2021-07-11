@@ -1,0 +1,24 @@
+how would people rate Little Women?		good	movie_to_imdbrating
+how would people rate The Pool?		good	movie_to_imdbrating
+is Ciao, Professore! considered good?		good	movie_to_imdbrating
+what do people think of Good Time Max?		good	movie_to_imdbrating
+what do people think of Dr. Jekyll and Mr. Hyde?		good	movie_to_imdbrating
+Goodbye Solo, is it any good?		good	movie_to_imdbrating
+what was the rating of Matinee?		good	movie_to_imdbrating
+is Willard considered good?		good	movie_to_imdbrating
+what did audiences think of An American Werewolf in London?		good	movie_to_imdbrating
+how would people rate Goodbye, Columbus?		good	movie_to_imdbrating
+what is popular opinion about The Bad News Bears Go to Japan?		bad	movie_to_imdbrating
+what rating would people give The Bells of St. Mary's?		good	movie_to_imdbrating
+Cousin Bette, is it any good?		good	movie_to_imdbrating
+is The Lookout considered good?		good	movie_to_imdbrating
+what is the rating of Trafic?		good	movie_to_imdbrating
+what is the rating of Murder Most Foul?		good	movie_to_imdbrating
+what is the rating of It's My Party?		good	movie_to_imdbrating
+what is the rating of Inside Llewyn Davis?		good	movie_to_imdbrating
+what is popular opinion about Dr. Jekyll and Mr. Hyde?		good	movie_to_imdbrating
+what rating would people give You've Got Mail?		good	movie_to_imdbrating
+what did audiences think of The Invisible Man Returns?		good	movie_to_imdbrating
+what is the rating of Everybody's All-American?		good	movie_to_imdbrating
+what do people think of Radio?		good	movie_to_imdbrating
+what is the rating of Frenzy?		good	movie_to_imdbrating
