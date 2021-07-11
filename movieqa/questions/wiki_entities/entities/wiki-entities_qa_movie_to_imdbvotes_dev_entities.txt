@@ -1,0 +1,8 @@
+how popular was Les Misérables	['0', '0', '0', 'Les Misérables', 'Les Misérables']
+how popular of a movie was Almost Famous	['0', '0', '0', '0', '0', '0', 'Almost Famous', 'Almost Famous']
+how popular is Assault on Precinct 13	['0', '0', '0', 'Assault on Precinct 13', 'Assault on Precinct 13', 'Assault on Precinct 13', '13']
+how popular of a movie was Ivan's Childhood	['0', '0', '0', '0', '0', '0', "Ivan's Childhood", "Ivan's Childhood"]
+how popular was My Man Godfrey	['0', '0', '0', 'My Man Godfrey', 'My Man Godfrey', 'Godfrey']
+what was the popularity rating of Who Framed Roger Rabbit	['0', '0', '0', 'popularity', '0', '0', 'Who Framed Roger Rabbit', 'Who Framed Roger Rabbit', 'Who Framed Roger Rabbit', 'Who Framed Roger Rabbit']
+how famous of a film was Massacre at Central High	['0', 'famous', '0', '0', 'film', '0', 'Massacre at Central High', 'Massacre at Central High', 'Massacre at Central High', 'Massacre at Central High']
+how popular of a movie is Jay and Silent Bob Strike Back	['0', '0', '0', '0', '0', '0', 'Jay and Silent Bob Strike Back', 'Jay and Silent Bob Strike Back', 'Jay and Silent Bob Strike Back', 'Jay and Silent Bob Strike Back', 'Jay and Silent Bob Strike Back', 'Jay and Silent Bob Strike Back']

@@ -37,7 +37,7 @@ def main():
                 else:
                     pass
         except:
-            sys.exit("uwu something went wrong while parsing this directory")
+            sys.exit(f"uwu something went wrong while parsing this directory: {sys.exc_info()[0]}")
 
     if args.file:
         try:
@@ -52,7 +52,7 @@ def main():
             else:
                 sys.exit("Arquivo inválido.")
         except:
-            sys.exit("uwu something went wrong while parsing this file")
+            sys.exit(f"uwu something went wrong while parsing this file: {sys.exc_info()[0]}")
 
     print('DONE')
 
