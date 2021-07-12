@@ -1,7 +1,0 @@
-what movies are about super panavision 70	['0', 'movies', '0', '0', '0', '0', '0']
-what films are about 15th century	['0', '0', '0', '0', '0', '0']
-what films can be described by 4	['0', '0', '0', '0', '0', '0', '4']
-which films are about 9/11	['0', '0', '0', '0', '9/11']
-which films are about 1920s	['0', '0', '0', '0', '1920s']
-what films are about 12th century	['0', '0', '0', '0', '0', '0']
-what films can be described by 60s	['0', '0', '0', '0', '0', '0', '60s']
