@@ -39,18 +39,44 @@ class Parser:
         words = line.split(' ')
 
         entities = []
+        main_entity_words = []
         if main_entity:
             main_entity = main_entity.group()
             main_entity_words = main_entity.split(' ')
-            for word in words:
-                if word in self.wiki_entities:
-                    entities.append(word)
-                elif word in main_entity_words and main_entity in self.wiki_entities:
-                    entities.append(main_entity)
-                else:
-                    entities.append('0')
 
-            self.ents.append((line, entities))
+        for word in words:
+            if word in self.wiki_entities:
+                entities.append(word)
+            elif word in main_entity_words and main_entity in self.wiki_entities:
+                entities.append(main_entity)
+            else:
+                entities.append('0')
+
+        if self.input_filename.endswith('qa_tag_to_movie_dev.txt'):
+            # This means we must be looking at the qa_tag_to_movie file, and it must be parsed differently
+            has_by = 'by' in line
+            has_about = 'about' in line
+            has_with = 'with' in line
+
+            if has_by:
+                main_entity = line.split('by')[1]
+            elif has_about:
+                main_entity = line.split('about')[1]
+            elif has_with:
+                main_entity = line.split('with')[1]
+
+            main_entity = self.trim_whitespace_and_newline(main_entity)
+            main_entity_words = main_entity.split(' ')
+            words = line.split(' ')
+
+            for i in range(0, len(words)):
+                if words[i] in self.wiki_entities:
+                    entities[i] = words[i]
+                elif words[i] in main_entity_words and main_entity in self.wiki_entities:
+                    entities[i] = main_entity
+                    
+        self.ents.append((line, entities))
+        
     
     def load_wiki_entities(self):
         wiki_entities_file = r'C:\Users\JuliaFC\Documents\2021\PLN\PLN\movieqa\knowledge_source\entities.txt'
