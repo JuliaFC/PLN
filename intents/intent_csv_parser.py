@@ -2,7 +2,7 @@ import pandas as pd
 from os import listdir
 from os.path import isfile, join
 
-mypath = '.\movieqa\questions\wiki_entities\intentions'
+mypath = '..\movieqa\questions\wiki_entities\intentions'
 
 def main():
     intent_files = [f for f in listdir(mypath) if isfile(join(mypath, f))]
