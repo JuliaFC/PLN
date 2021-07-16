@@ -1,7 +1,7 @@
 question,entities
 how popular was Les Misérables,"['0', '0', '0', 'B-movie', 'I-movie']"
 how popular of a movie was Almost Famous,"['0', '0', '0', '0', '0', '0', 'B-movie', 'I-movie']"
-how popular is Assault on Precinct 13,"['0', '0', '0', 'B-movie', 'I-movie', 'I-movie', '13']"
+how popular is Assault on Precinct 13,"['0', '0', '0', 'B-movie', 'I-movie', 'I-movie', 'I-movie']"
 how popular of a movie was Ivan's Childhood,"['0', '0', '0', '0', '0', '0', 'B-movie', 'I-movie']"
 how popular was My Man Godfrey,"['0', '0', '0', 'B-movie', 'I-movie', 'I-movie']"
 what was the popularity rating of Who Framed Roger Rabbit,"['0', '0', '0', '0', '0', '0', 'B-movie', 'I-movie', 'I-movie', 'I-movie']"
