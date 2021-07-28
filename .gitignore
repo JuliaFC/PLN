@@ -57,5 +57,4 @@ docs/source/changelog.md
 
 .jupyter_releaser_checkout
 
-rasa/db
-rasa/models
+rasa/models/*
