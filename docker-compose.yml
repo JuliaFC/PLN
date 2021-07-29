@@ -1,0 +1,49 @@
+version: '3.0'
+services:
+  rasa:
+    build: ./rasa
+    ports:
+      - 5005:5005
+    volumes:
+      - ./rasa:/app
+    command:
+      - run
+
+  app:
+    restart: always
+    build: ./rasa/actions
+    expose:
+      - "5055"
+    ports:
+      - "5055:5055"
+    volumes:
+      - ./rasa/actions:/app/actions
+  
+  elasticsearch:
+    image: docker.elastic.co/elasticsearch/elasticsearch:7.13.4
+    container_name: elasticsearch
+    volumes:
+      - data1:/usr/share/elasticsearch/data
+    ports:
+      - 9200:9200
+    environment:
+      - node.name=elasticsearch
+      - cluster.name=es-docker-cluster
+      - bootstrap.memory_lock=false
+      - cluster.initial_master_nodes=elasticsearch
+      - "ES_JAVA_OPTS=-Xms512m -Xmx512m"
+  
+  kibana:
+    image: docker.elastic.co/kibana/kibana:7.13.4
+    container_name: kibana
+    depends_on: 
+      - elasticsearch
+    environment:
+      ELASTICSEARCH_URL: http://elasticsearch:9200
+      ELASTICSEARCH_HOSTS: http://elasticsearch:9200
+    ports:
+      - 5601:5601
+
+volumes:
+  data1:
+    driver: local
