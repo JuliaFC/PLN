@@ -20,7 +20,6 @@ nlu:
 - intent: goodbye
   examples: |
     - good afternoon
-    - cu
     - good by
     - cee you later
     - good night
@@ -43,50 +42,127 @@ nlu:
 - intent: deny
   examples: |
     - no
-    - n
     - never
     - I don't think so
     - don't like that
     - no way
     - not really
 
-- intent: mood_great
+- intent: writer_to_movie
   examples: |
-    - perfect
-    - great
-    - amazing
-    - feeling like a king
-    - wonderful
-    - I am feeling very good
-    - I am great
-    - I am amazing
-    - I am going to save the world
-    - super stoked
-    - extremely good
-    - so so perfect
-    - so good
-    - so perfect
+    - what is a movie written by [Roderick Thorp](writer)
+    - which film did [Stephen Hawking](writer) write the story for
+    - which movie did [Michael Green](writer) write
 
-- intent: mood_unhappy
+- intent: movie_to_writer
   examples: |
-    - my day was horrible
-    - I am sad
-    - I don't feel very well
-    - I am disappointed
-    - super sad
-    - I'm so sad
-    - sad
-    - very sad
-    - unhappy
-    - not good
-    - not very good
-    - extremly sad
-    - so saad
-    - so sad
+    - who wrote the movie [I Never Sang for My Father](movie)
+    - which screenwriter wrote the script for [A Question of Silence](movie)
+    - the film [The Quiet Ones](movie) was written by who
+    - who is the creator of the film script for [Fast Times at Ridgemont High](movie)
 
-- intent: bot_challenge
+- intent: movie_to_genre
   examples: |
-    - are you a bot?
-    - are you a human?
-    - am I talking to a bot?
-    - am I talking to a human?
+    - what was the genre of the film [De-Lovely](movie)
+    - what kind of film is [The Littlest Rebel](movie)
+    - what is the genre for the movie [Wonderland](movie)
+    - what film genre is [Mississippi Mermaid](movie)
+
+- intent: director_to_movie
+  examples: |
+    - what films did [Hal Salwen](director) direct
+    - which movie was [Diane Kurys](director) the director for
+    - which films did [Declan Donnellan](director) direct
+    - what did [Gordon Willis](director) direct
+    - what movies was directed by [Quentin Tarantino](director)
+
+- intent: movie_to_director
+  examples: |
+    - who directed the movie [Rio](movie)
+    - the director of [The Times of Harvey Milk](movie) was who
+    - which person directed [Zombies of Mora Tau](movie)
+    - who was the director of [Winter's Tale](movie)
+
+- intent: actor_to_movie
+  examples: |
+    - what does [Peter Franzén](actor) appear in
+    - [Cristina Flutur](actor) appears in which movies
+    - what movies did [Karl Hardman](actor) act in
+    - what movies did [Joely Richardson](actor) star in
+
+- intent: movie_to_actor
+  examples: |
+    - who are the actors in [The Double](movie)
+    - who starred in [The Benchwarmers](movie)
+    - the movie [The Ferryman](movie) starred who
+    - who acted in the movie [All's Faire in Love](movie)
+
+- intent: movie_to_tags
+  examples: |
+    - what are some words that describe movie [Iron Man](movie)
+    - which topics is [The Long Walk Home](movie) about
+    - what terms are applicable to [The Exorcist III](movie)
+    - which words describe movie [The Merchant of Four Seasons](movie)
+
+- intent: tag_to_movie
+  examples: |
+    - what films are about [kazuo mori](tag)
+    - what movies can be described with [immigration](tag)
+    - which movies are about [poland](tag)
+    - what movies are about [taxi driver](tag)
+
+- intent: movie_to_imdb_votes
+  examples: |
+    - how popular was [Les Misérables](movie)
+    - how popular of a movie was [Ivan's Childhood](movie)
+    - how famous of a film was [Massacre at Central High](movie)
+
+- intent: movie_to_language
+  examples: |
+    - what is the language spoken in [Yesterday Girl](movie)
+    - what language is the movie [A Friend of Mine](movie) in
+    - what is the primary language in the film [Gigi](movie)
+    - what language is [Bey Yaar](movie) in
+
+- intent: movie_to_imdb_rating
+  examples: |
+    - what is the rating of [Trafic](movie)
+    - what is popular opinion about [Dr. Jekyll and Mr. Hyde](movie)
+    - what do people think of [Radio](movie)
+    - is [Willard](movie) considered good
+    - is [Willard](movie) considered bad
+
+- intent: movie_to_year
+  examples: |
+    - what was the release year of [Batman](movie)
+    - what year was the film [Carnival of Souls](movie) released
+    - what was the release date of the movie [Mushrooming](movie)
+    - when was [Demolition Man](movie) released
+
+# Others
+
+- intent: out_of_scope
+  examples: |
+    - mmm I can't see what you're saying
+    - I am looking forward to my best friend's wedding. Do you have any tuxedo's?
+    - hmmmm
+    - Can I?
+    - Well, okay then
+    - what is the square root of 5
+    - I want to know the weather
+    - what is the meaning of life.
+    - Fridge Isn't Running
+    - my tv isn't working
+    - I want a pizza
+    - my washing machine isn't working
+    - what year is it
+    - order a pizza
+    - I want to order a pizza
+    - what is the weather today
+    - what is the weather
+    - why is the sky blue
+    - blah blah blah
+- intent: whats_your_name
+  examples: |
+    - can you tell me your name?
+    - what's your name?
