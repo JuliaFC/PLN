@@ -1,0 +1,9 @@
+version: "2.0"
+
+rules:
+
+- rule: Greet new user
+  steps:
+  - intent: start
+  - action: utter_start
+

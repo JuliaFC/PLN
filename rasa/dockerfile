@@ -1,0 +1,9 @@
+FROM rasa/rasa:2.8.0-full
+
+# Add a custom system library (e.g. git)
+#RUN apt-get update && \
+#    apt-get install -y git
+USER root
+# Add a custom python library (e.g. jupyter)
+# RUN python -m spacy download pt_core_news_md
+# RUN python -m spacy link pt_core_news_md pt

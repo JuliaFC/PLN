@@ -1,0 +1,88 @@
+version: "2.0"
+
+stories:
+
+- story: intro
+  steps:
+  - intent: greet
+  - action: utter_greet
+
+
+- story: Asks writer to movie
+  steps:
+  - intent: writer_to_movie
+  # - action: action_answer_movie
+  - action: action_answer_object
+
+- story: Asks movie to writer
+  steps:
+  - intent: movie_to_writer
+  # - action: action_answer_writer
+  - action: action_answer_object
+
+- story: Asks movie to genre
+  steps:
+  - intent: movie_to_genre
+  # - action: action_answer_genre
+  - action: action_answer_object
+
+- story: Asks director to movie
+  steps:
+  - intent: director_to_movie
+  # - action: action_answer_movie
+  - action: action_answer_object
+
+- story: Asks movie to director
+  steps:
+  - intent: movie_to_director
+  # - action: action_answer_director
+  - action: action_answer_object
+
+- story: Asks actor to movie
+  steps:
+  - intent: actor_to_movie
+  # - action: action_answer_movie
+  - action: action_answer_object
+
+- story: Asks movie to actor
+  steps:
+  - intent: movie_to_actor
+  # - action: action_answer_movie
+  - action: action_answer_object
+
+- story: Asks movie to tags
+  steps:
+  - intent: movie_to_tags
+  # - action: action_answer_tags
+  - action: action_answer_object
+
+- story: Asks tag to movie
+  steps:
+  - intent: tag_to_movie
+  # - action: action_answer_movie
+  - action: action_answer_object
+
+- story: Asks movie to IMDB Votes
+  steps:
+  - intent: movie_to_imdb_votes
+  # - action: action_answer_imdb_votes
+  - action: action_answer_object
+
+- story: Asks movie to IMDB Rating
+  steps:
+  - intent: movie_to_imdb_rating
+  # - action: action_answer_imdb_rating
+  - action: action_answer_object
+
+- story: Asks movie to language
+  steps:
+  - intent: movie_to_language
+  # - action: action_answer_language
+  - action: action_answer_object
+
+- story: Asks movie to year
+  steps:
+  - intent: movie_to_year
+  # - action: action_answer_year
+  - action: action_answer_object
+

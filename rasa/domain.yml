@@ -1,0 +1,56 @@
+version: "2.0"
+
+intents:
+  - start
+  - greet
+  - goodbye
+  - affirm
+  - deny
+  - writer_to_movie
+  - movie_to_writer
+  - movie_to_genre
+  - director_to_movie
+  - movie_to_director
+  - actor_to_movie
+  - movie_to_actor
+  - movie_to_tags
+  - tag_to_movie
+  - movie_to_imdb_votes
+  - movie_to_language
+  - movie_to_imdb_rating
+  - movie_to_year
+  - out_of_scope
+  - whats_your_name
+
+entities:
+  - writer
+  - movie
+  - actor
+  - tag
+
+actions:
+- action_answer_object
+
+responses:
+  utter_greet:
+  - text: "Hello!"
+  utter_start:
+  - text: "Welcome to Filma Chatbot!"
+
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true
+
+slots:
+  writer:
+    type: text
+    influence_conversation: false
+  movie:
+    type: text
+    influence_conversation: false
+  actor:
+    type: text
+    influence_conversation: false
+  tag:
+    type: text
+    influence_conversation: false
