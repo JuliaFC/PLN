@@ -43,7 +43,7 @@ class ActionAnswerObject(Action):
         # print(type(entity))
         if not entity:
             dispatcher.utter_message(
-                text="Sorry, I couldn't understand what you meant")
+                text="Sorry, I couldn't understand what you meant. Do you mind saying it with other words?")
             return []
         random_number = random.randint(0,2)
         responses = requests.get(
@@ -53,9 +53,10 @@ class ActionAnswerObject(Action):
             response_intent = response["_source"]["intent"].strip('\n')
             if response_intent == last_intent:
                 dispatcher.utter_message(text=entity + responsesTexts[last_intent][random_number] + response["_source"]["response"])
+                dispatcher.utter_message(text="Well, what would you like to ask next?")
                 return []
         
-        dispatcher.utter_message(text="Sorry, I couldn't find the information you wanted in my database")
+        dispatcher.utter_message(text="Sorry, I couldn't find the information you wanted in my database. Why don't you try another question?")
         
         return []
 
