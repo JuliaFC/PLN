@@ -86,3 +86,43 @@ stories:
   # - action: action_answer_year
   - action: action_answer_object
 
+- story: interactive_story_1
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: movie_to_imdb_votes
+    entities:
+    - movie: les miserables
+  - slot_was_set:
+    - movie: les miserables
+  - action: action_answer_object
+  - intent: movie_to_director
+    entities:
+    - movie: Dark Knight Rises
+  - slot_was_set:
+    - movie: Dark Knight Rises
+  - action: action_answer_object
+  - intent: movie_to_director
+    entities:
+    - movie: Kill Bill
+  - slot_was_set:
+    - movie: Kill Bill
+  - action: action_answer_object
+  - intent: actor_to_movie
+    entities:
+    - actor: Gene Quintano
+  - slot_was_set:
+    - actor: Gene Quintano
+  - action: action_answer_object
+  - intent: tag_to_movie
+    entities:
+    - tag: earth
+  - slot_was_set:
+    - tag: earth
+  - action: action_answer_object
+  - intent: movie_to_tags
+    entities:
+    - movie: Beethoven
+  - slot_was_set:
+    - movie: Beethoven
+  - action: action_answer_object

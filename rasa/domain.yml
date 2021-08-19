@@ -1,46 +1,34 @@
-version: "2.0"
-
-intents:
-  - start
-  - greet
-  - goodbye
-  - affirm
-  - deny
-  - writer_to_movie
-  - movie_to_writer
-  - movie_to_genre
-  - director_to_movie
-  - movie_to_director
-  - actor_to_movie
-  - movie_to_actor
-  - movie_to_tags
-  - tag_to_movie
-  - movie_to_imdb_votes
-  - movie_to_language
-  - movie_to_imdb_rating
-  - movie_to_year
-  - out_of_scope
-  - whats_your_name
-
-entities:
-  - writer
-  - movie
-  - actor
-  - tag
-
-actions:
-- action_answer_object
-
-responses:
-  utter_greet:
-  - text: "Hello!"
-  utter_start:
-  - text: "Welcome to Filma Chatbot!"
-
+version: '2.0'
 session_config:
   session_expiration_time: 60
   carry_over_slots_to_new_session: true
-
+intents:
+- tag_to_movie
+- movie_to_tags
+- actor_to_movie
+- movie_to_director
+- movie_to_imdb_votes
+- greet
+- director_to_movie
+- movie_to_actor
+- start
+- goodbye
+- affirm
+- deny
+- writer_to_movie
+- movie_to_writer
+- movie_to_genre
+- movie_to_language
+- movie_to_imdb_rating
+- movie_to_year
+- out_of_scope
+- whats_your_name
+entities:
+- actor
+- director
+- movie
+- tag
+- writer
 slots:
   writer:
     type: text
@@ -54,3 +42,11 @@ slots:
   tag:
     type: text
     influence_conversation: false
+responses:
+  utter_greet:
+  - text: Hello!
+  utter_start:
+  - text: Welcome to Filma Chatbot!
+actions:
+- action_answer_object
+- utter_greet

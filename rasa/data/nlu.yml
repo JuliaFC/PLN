@@ -1,5 +1,4 @@
 version: "2.0"
-
 nlu:
 - intent: greet
   examples: |
@@ -16,7 +15,8 @@ nlu:
     - goodmorning
     - goodevening
     - good afternoon
-
+    - Hi [filma](director)
+    - hi filma
 - intent: goodbye
   examples: |
     - good afternoon
@@ -29,7 +29,6 @@ nlu:
     - see you around
     - bye bye
     - see you later
-
 - intent: affirm
   examples: |
     - yes
@@ -38,7 +37,6 @@ nlu:
     - of course
     - that sounds good
     - correct
-
 - intent: deny
   examples: |
     - no
@@ -47,27 +45,58 @@ nlu:
     - don't like that
     - no way
     - not really
-
 - intent: writer_to_movie
   examples: |
     - what is a movie written by [Roderick Thorp](writer)
     - which film did [Stephen Hawking](writer) write the story for
     - which movie did [Michael Green](writer) write
-
+    - which movies was [Jeff Stanzler](writer) the writer of
+    - Filma what is a movie written by [Roberto Rossellini](writer)
+    - what is a movie written by [Ian Mackenzie Jeffers](writer)
+    - what film did [Don Rhymer](writer) write filma
+    - what film did [Stephen Hawking](writer) write
+    - which movies was [Moufida Tlatli](writer) the writer of
+    - what is a movie written by [Chester Erskine](writer)
+    - what film did [Michael Goldbach](writer) write
+    - what film did [Maryam d'Abo](writer) write
+    - Filma what is a movie written by [Vereen Bell](writer)
+    - what movies did [Bernard Pomerance](writer) write
 - intent: movie_to_writer
   examples: |
     - who wrote the movie [I Never Sang for My Father](movie)
     - which screenwriter wrote the script for [A Question of Silence](movie)
     - the film [The Quiet Ones](movie) was written by who
     - who is the creator of the film script for [Fast Times at Ridgemont High](movie)
-
+    - who's the writer of [Experiment Perilous](movie)
+    - which person wrote [The Wolf Man](movie)
+    - who was the writer of [Extract](movie)
+    - Filma, who was the writer of [Cencoroll](movie)
+    - the film [The Quiet Ones](movie) was written by who, Filma?
+    - who was [Saboteur](movie) written by?
+    - who was the writer of the film [Frances Ha](movie)
+    - who in the world wrote [Kill!](movie)
+    - who wrote the movie [I Never Sang for My Father](movie), Filma?
+    - Filma who wrote the movie [A Question of Silence](movie)?
+    - [Hi Diddle Diddle](movie) is a film written by this person
+    - who is the creator of the film script for [Scary Movie 5](movie)
 - intent: movie_to_genre
   examples: |
     - what was the genre of the film [De-Lovely](movie)
     - what kind of film is [The Littlest Rebel](movie)
     - what is the genre for the movie [Wonderland](movie)
     - what film genre is [Mississippi Mermaid](movie)
-
+    - Filma, what is the genre of the film [The Darjeeling Limited](movie)
+    - what sort of film is [Banshee Chapter](movie)
+    - what is the genre for the film [The Motel Life](movie)
+    - what genre of film is [Elegy](movie) Filma
+    - Filma what genre of film is [A Question of Silence](movie)
+    - what genre of movie is [Girls Will Be Girls](movie)
+    - what was the genre of the film [De-Lovely](movie) filma
+    - what sort of movie is [The Man from Monterey](movie)
+    - what is the genre of the movie [The Amityville Curse](movie)
+    - what kind of film is [The Little Traitor](movie)
+    - what is the genre for the film [Anatomy](movie)
+    - Filma, what is the genre for the film [Underdog](movie)
 - intent: director_to_movie
   examples: |
     - what films did [Hal Salwen](director) direct
@@ -75,55 +104,142 @@ nlu:
     - which films did [Declan Donnellan](director) direct
     - what did [Gordon Willis](director) direct
     - what movies was directed by [Quentin Tarantino](director)
-
+    - Filma, [Quentin Tarantino](director) directed which movies?
+    - what is a film directed by [Nick Murphy](director)
+    - [Robinson Devor](director) directed which films
+    - which movies did [Massimo Dallamano](director) direct
+    - [Sönke Wortmann](director) directed which movies
+    - what was [Arild Fröhlich](director) the director of
+    - [William Wyler](director) was the director of which movies
+    - what did [Nancy Savoca](director) direct
+    - what did [Annabel Jankel](director) direct
 - intent: movie_to_director
   examples: |
     - who directed the movie [Rio](movie)
     - the director of [The Times of Harvey Milk](movie) was who
     - which person directed [Zombies of Mora Tau](movie)
     - who was the director of [Winter's Tale](movie)
-
+    - What director made [Kill Bill](movie)?
+    - Who directed [Inception](movie)?
+    - the director of [Cube Zero](movie) was who
+    - the film [Wild Strawberries](movie) was directed by who
+    - who is listed as director for [The Croods](movie)
+    - which person directed [Things Behind the Sun](movie)
+    - Filma who is the director of [O Fantasma](movie)
+    - who was [Moon 44](movie) directed by
+    - the director of [Lantana](movie) was who
+    - who was [The Nine Lives of Tomas Katz](movie) directed by
+    - who directed the movie [Bugsy](movie) filma
+    - who's the director of [Heaven Can Wait](movie)
+    - Who directed The [Dark Knight Rises](movie)?
+    - What director made [Kill Bill](movie)?
 - intent: actor_to_movie
   examples: |
     - what does [Peter Franzén](actor) appear in
     - [Cristina Flutur](actor) appears in which movies
     - what movies did [Karl Hardman](actor) act in
     - what movies did [Joely Richardson](actor) star in
-
+    - Filma, [Christopher Nolan](actor) starred which movies?
+    - what films does [Jessie Matthews](actor) appear in?
+    - [Claire Skinner](actor) appears in which movies
+    - what does [Christian Serratos](actor) act in
+    - what does [William Hudson](actor) act in
+    - what movies did [Dale Midkiff](actor) star in
+    - what does [Werner Herzog](actor) appear in
+    - [Pamela Anderson](actor) appears in which movies
+    - Filma, what films does [Robert Preston](actor) appear in
+    - [Hubert Deschamps](actor) appears in which movies
+    - what does [Frank Albertson](actor) act in
+    - Filma, [Gene Quintano](movie) appears in which movies?
 - intent: movie_to_actor
   examples: |
     - who are the actors in [The Double](movie)
     - who starred in [The Benchwarmers](movie)
     - the movie [The Ferryman](movie) starred who
     - who acted in the movie [All's Faire in Love](movie)
-
+    - Who starred [Titanic](movie)?
+    - who stars in [Darkman](movie)
+    - the movie [Guardians of the Galaxy](movie) starred who
+    - who acted in the movie [The Big House](movie)
+    - who stars in [I Shot Andy Warhol](movie)
+    - the film [The Big Picture](movie) starred which actors
+    - who are the actors in [Answers to Nothing](movie)
+    - who acted in [Goodbye, Mr. Chips](movie)
+    - the film [The Other Man](movie) starred which actors
+    - the film [Einstein and Eddington](movie) starred which actors
+    - who are the actors in [The Last of Mrs. Cheyney](movie)
+    - who acted in [Cashback](movie)
+    - the film [Geography Club](movie) starred which actors
+    - Filma the film [Ivanhoe](movie) starred which actors
+    - the film [Guy X](movie) starred which actors filma
 - intent: movie_to_tags
   examples: |
     - what are some words that describe movie [Iron Man](movie)
     - which topics is [The Long Walk Home](movie) about
     - what terms are applicable to [The Exorcist III](movie)
     - which words describe movie [The Merchant of Four Seasons](movie)
-
+    - what are some words that  describe movie [Chaos](movie)
+    - what topics is [The Safety of Objects](movie) about
+    - what are some words that  describe movie [Yogi Bear](movie)
+    - describe [Beethoven](movie)
+    - can you give a few words describing what [Chungking Express](movie) is about
+    - what topics is [Hellfighters](movie) about
+    - what terms are applicable to [Criminal](movie)
+    - Filma can you give a few words describing what [A Midsummer Night's Dream](movie) is about
+    - what terms are applicable to [All the King's Men](movie)
+    - what are some words that  describe movie [Cross Creek](movie)
+    - which topics is [Parental Guidance](movie) about
+    - what words describe film [Terror Train](movie)
+    - Filma describe [Beethoven](movie)
 - intent: tag_to_movie
   examples: |
     - what films are about [kazuo mori](tag)
     - what movies can be described with [immigration](tag)
     - which movies are about [poland](tag)
     - what movies are about [taxi driver](tag)
-
+    - which films can be described by [strange](tag)
+    - which films can be described by rick moranis](tag)
+    - Filma which films are about [earth](tag)
+    - what movies can be described with [korea](tag)
+    - which films are about [pat morita](tag)
+    - what movies can be described with [jean harlow](tag)
+    - which films are about [january jones](tag)
+    - which movies can be described by [dublin](tag)
+    - what movies are about [protest](tag)
+    - what films are about [neil burger](tag)
+    - which films are about [spaghetti](tag)
+    - what films can be described by [bizarre](tag)
+    - which movies are about [murder mystery](tag)
+    - Filma, which films are about [earth](tag)?
 - intent: movie_to_imdb_votes
   examples: |
-    - how popular was [Les Misérables](movie)
+    - Filma how popular was [Les Misérables](movie)
     - how popular of a movie was [Ivan's Childhood](movie)
     - how famous of a film was [Massacre at Central High](movie)
-
+    - how popular of a movie is [Jay and Silent Bob Strike Back](movie)
+    - how popular is [Assault on Precinct 13](movie)
+    - Filma how popular was [Kill Bill](movie)
+    - how popular was [My Man Godfrey](movie)
+    - Filma how popular was [les miserables](movie)
 - intent: movie_to_language
   examples: |
     - what is the language spoken in [Yesterday Girl](movie)
     - what language is the movie [A Friend of Mine](movie) in
     - what is the primary language in the film [Gigi](movie)
+    - Filma what language is [Bey Yaar](movie) in
+    - what language is [The Exterminating Angel](movie) in
+    - what is the main language in [Backbeat](movie)
+    - what language is [Fist of Legend](movie) in
     - what language is [Bey Yaar](movie) in
-
+    - what is the main language in [Iceman](movie)
+    - what is the language spoken in the film [Tuesday, After Christmas](movie)
+    - what language is [That Man from Rio](movie) in
+    - what language is [Watchmen](movie) in
+    - what is the primary language in [Opera](movie)
+    - what language is [The Brothers Grimm](movie) in
+    - what is the main language in [The Suspended Step of the Stork](movie)
+    - what is the primary language in the film [Hukkle](movie)
+    - what is the primary language in the film [An American Hippie in Israel](movie)
 - intent: movie_to_imdb_rating
   examples: |
     - what is the rating of [Trafic](movie)
@@ -131,16 +247,30 @@ nlu:
     - what do people think of [Radio](movie)
     - is [Willard](movie) considered good
     - is [Willard](movie) considered bad
-
+    - is [The Lookout](movie) considered good
+    - what is popular opinion about [The Bad News Bears Go to Japan](movie)
+    - is [Ciao, Professore!](movie) considered good
 - intent: movie_to_year
   examples: |
     - what was the release year of [Batman](movie)
     - what year was the film [Carnival of Souls](movie) released
     - what was the release date of the movie [Mushrooming](movie)
     - when was [Demolition Man](movie) released
-
-# Others
-
+    - when was [The Haunted House](movie) released
+    - when was [Child's Play 2](movie) released
+    - Filma when was [Alvin and the Chipmunks](movie) released
+    - what was the release year of the movie [Full Frontal](movie)
+    - [The Expendables 2](movie), when was it released
+    - what was the release date of the movie [Udaan](movie)
+    - Filma what year was the film [Last Summer in the Hamptons](movie) released
+    - the movie [The Grudge 2](movie), when was it released Filma
+    - the movie [Smilin' Through](movie), when was it released
+    - what was the release date of the film [La Antena](movie)
+    - what was the release year of [Honky Tonk Freeway](movie)
+    - [Iron Sky](movie), when was it released
+    - what was the release year of the film [Broadway Melody of 1940](movie)
+    - when was [The Hill](movie) released
+    - when was the film [Sherlock Holmes in Washington](movie) released
 - intent: out_of_scope
   examples: |
     - mmm I can't see what you're saying
