@@ -6,6 +6,8 @@ stories:
   steps:
   - intent: greet
   - action: utter_greet
+  - intent: start
+  - action: utter_start
 
 
 - story: Asks writer to movie
