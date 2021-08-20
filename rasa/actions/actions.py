@@ -56,7 +56,7 @@ class ActionAnswerObject(Action):
                 dispatcher.utter_message(text="Well, what would you like to ask next?")
                 return []
         
-        dispatcher.utter_message(text="Sorry, I couldn't find the information you wanted in my database. Why don't you try another question?")
+        dispatcher.utter_message(text="Sorry, I couldn't find the information you wanted in my database. Can you please reword your question or ask something else?")
         
         return []
 
